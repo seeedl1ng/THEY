@@ -13,10 +13,10 @@
 <img width="1920" height="1057" alt="2025-03-26_21 53 42downscale" src="https://github.com/user-attachments/assets/9bcdfdfa-820f-4b80-9b08-a00ea2fcbfb3" />
 
 
+## Installation
+1) [Download](https://github.com/seeedl1ng/SRP5361/releases)
 
 
 
 
-Start 2023.03
-
-
+###Start 2023.03
