@@ -1,5 +1,5 @@
 # Scape and Run: Parasites 5361
-[![TotalDownloads](https://img.shields.io/github/downloads/seeedl1ng/SRP5361/total?label=Загрузок)](https://github.com/seeedl1ng/SRP5361/releases "Download")
+[![TotalDownloads](https://img.shields.io/github/downloads/seeedl1ng/SRP5361/total?label=Downloads)](https://github.com/seeedl1ng/SRP5361/releases "Download")
 ◆RU ◇<a href="https://github.com/seeedl1ng/SRP5361/blob/main/README_EN.md">EN<a/>
 
 
@@ -8,5 +8,6 @@
 <img width="1920" height="1057" alt="2025-01-26_22 59 54" src="https://github.com/user-attachments/assets/2d8314d0-1971-4fa3-9eaa-2e6617e7acd2" />
 <img width="1920" height="1080" alt="2025-03-23_00 08 45" src="https://github.com/user-attachments/assets/04dff66a-f49b-4391-a583-9f90c0ee99a6" />
 <img width="1920" height="1057" alt="2025-03-26_21 53 42downscale" src="https://github.com/user-attachments/assets/9bcdfdfa-820f-4b80-9b08-a00ea2fcbfb3" />
+
 
 
