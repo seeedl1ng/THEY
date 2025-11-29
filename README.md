@@ -12,4 +12,6 @@
 <img width="1920" height="1080" alt="2025-03-23_00 08 45" src="https://github.com/user-attachments/assets/04dff66a-f49b-4391-a583-9f90c0ee99a6" />
 <img width="1920" height="1057" alt="2025-03-26_21 53 42downscale" src="https://github.com/user-attachments/assets/9bcdfdfa-820f-4b80-9b08-a00ea2fcbfb3" />
 
-Сборку начал делать +- 2023.03
+## Установка
+1) [Скачать](https://github.com/seeedl1ng/SRP5361/releases) Сборку
+### Сборку начал делать c +- 2023.03
