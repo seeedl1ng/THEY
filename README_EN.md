@@ -18,10 +18,10 @@ A modpack for Minecraft 1.12.2, with a focus on realism and survival. Based on t
 1) Java 21 is required, but for better performance use Java 25 JRE ([Download Java Adoptium](https://adoptium.net/temurin/releases?version=25&os=any&arch=any&mode=filter))
 2) [Download](https://github.com/seeedl1ng/SRP5361/releases) modpack
 
-
-
+The more, the better! Call your friend and you will have more fun with the modpack😋
 
 Modpack started from +- 2023.03
+
 
 
 
