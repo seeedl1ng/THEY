@@ -5,7 +5,7 @@
 
 *!!!Feel free to ask questions and report bugs https://github.com/seeedl1ng/SRP5361/issues* plz
 
-A modpack for Minecraft 1.12.2, with a focus on realism and survival. Based on the Scape mod. and Run: Parasites (SRP)
+A modpack for Minecraft 1.12.2, with a focus on realism and survival. Based on the Scape and Run: Parasites (SRP)
 
 <img width="1920" height="1057" alt="2025-01-26_22 13 11" src="https://github.com/user-attachments/assets/33b0eaff-fa93-4810-9925-0d4e31c8570a" />
 <img width="1920" height="1057" alt="2025-01-26_22 59 54" src="https://github.com/user-attachments/assets/2d8314d0-1971-4fa3-9eaa-2e6617e7acd2" />
@@ -21,6 +21,7 @@ A modpack for Minecraft 1.12.2, with a focus on realism and survival. Based on t
 **The more, the better! Call your friend, and you will have more fun with the modpack**😋
 
 Modpack started from +- 2023.03
+
 
 
 
