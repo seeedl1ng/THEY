@@ -15,7 +15,7 @@
 <img width="1920" height="1057" alt="2025-03-26_21 53 42downscale" src="https://github.com/user-attachments/assets/9bcdfdfa-820f-4b80-9b08-a00ea2fcbfb3" />
 
 ## Установка
-1) Необходима java 21, но для б*о*льшей производительности используйте java 25 JRE [Скачать](https://adoptium.net/temurin/releases?version=25&os=any&arch=any&mode=filter)
+1) Необходима java 21, но для бо́льшей производительности используйте java 25 JRE [Скачать](https://adoptium.net/temurin/releases?version=25&os=any&arch=any&mode=filter)
 2) [Скачать](https://github.com/seeedl1ng/SRP5361/releases) сборку
 
 ### Чем больше, тем лучше! Позови своего друга, и ты получишь больше удовольствия от сборки😋
