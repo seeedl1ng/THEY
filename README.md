@@ -3,7 +3,7 @@
 
 ◆RU ◇<a href="https://github.com/seeedl1ng/SRP5361/blob/main/README_EN.md">EN<a/>
 
-*!!!Не стесняйтесь сообщать о багах пж https://github.com/seeedl1ng/SRP5361/issues*
+*!!!Не стесняйтесь сообщать о багах, и задавать вопросы https://github.com/seeedl1ng/SRP5361/issues* пж
 
 Сборка для Minecraft 1.12.2, с упором на реалистичность и выживание.
 В основе лежит мод Scape and Run: Parasites (SRP)
