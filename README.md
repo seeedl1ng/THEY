@@ -11,8 +11,7 @@
 **Не забудьте сначала прочитать [часто задаваемые вопросы](https://github.com/seeedl1ng/SRP5361/wiki/FAQ)**
 
 <img width="1920" height="1057" alt="2025-01-26_22 13 11" src="https://github.com/user-attachments/assets/33b0eaff-fa93-4810-9925-0d4e31c8570a" />
-![Uploading 2025-12-07_15.56.53.png…]()
-
+<img width="1920" height="1080" alt="2025-12-07_15 56 53" src="https://github.com/user-attachments/assets/21292af2-6b40-4a53-b781-6e4d1cc79dbf" />
 <img width="1920" height="1080" alt="2025-03-23_00 08 45" src="https://github.com/user-attachments/assets/04dff66a-f49b-4391-a583-9f90c0ee99a6" />
 <img width="1920" height="1057" alt="2025-03-26_21 53 42downscale" src="https://github.com/user-attachments/assets/9bcdfdfa-820f-4b80-9b08-a00ea2fcbfb3" />
 
