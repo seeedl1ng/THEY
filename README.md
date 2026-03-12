@@ -18,7 +18,7 @@
 >*Они уже были здесь. И они свили гнезда... ~<a href="https://www.youtube.com/watch?v=OydV4BMTemM">nocubeyt<a/>*
 
 ## Установка
-1) Необходима java 25(желательно JRE),  ([Скачать Java Adoptium](https://adoptium.net/temurin/releases?version=25&os=any&arch=any&mode=filter))
+1) Необходима java 25 (желательно JRE),  ([Скачать Java Adoptium](https://adoptium.net/temurin/releases?version=25&os=any&arch=any&mode=filter))
 2) [Скачать](https://github.com/seeedl1ng/SRP5361/releases) сборку
 
 **Чем больше, тем лучше! Позови своего друга, и ты получишь больше удовольствия от сборки😋**
