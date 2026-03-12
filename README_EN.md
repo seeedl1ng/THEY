@@ -17,9 +17,10 @@ A modpack for Minecraft 1.12.2, with a focus on realism and survival. Based on t
 >*They were already here. And they had built nests... ~<a href="https://www.youtube.com/watch?v=OydV4BMTemM">nocubeyt<a/>*
 
 ## Installation
-1) Java 25 is required (preferably "JRE"), ([Download Java Adoptium](https://adoptium.net/temurin/releases?version=25&os=any&arch=any&mode=filter))
+1) Java 25 is required (preferably JRE), ([Download Java Adoptium](https://adoptium.net/temurin/releases?version=25&os=any&arch=any&mode=filter))
 2) [Download](https://github.com/seeedl1ng/SRP5361/releases) modpack
 
 **The more, the better! Call your friend, and you will have more fun with the modpack**😋
 
 Modpack started from +- 2023.03
+
