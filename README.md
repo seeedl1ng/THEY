@@ -30,20 +30,6 @@
 ## Установка на сервер
 Лагает игра? или у вас слабый проц? - разгрузите серверную часть сборки на сервер
 
-### Если у вас нету ничего (особенно если вы из US)
-1) Скачать сборку с суффиксом "serv" из [релизов](https://github.com/seeedl1ng/THEY/releases)
-2) Скачать форк Mine Colab https://github.com/N-aksif-N/MineColab_Improved/releases
-3) Скачать [Cleanroom](https://github.com/CleanroomMC/Cleanroom/releases) (который installer.jar)
-4) Перейти на https://colab.research.google.com > Загрузить > Выбрать MineColab
-
->(У аккаунта на гугл диске должно быть свободно хотябы пару гигабайт)
-
-5) Нажать Setup requirements
-6) Разрешить этому блокноту доступ к вашим файлам на Google Диске
-7) Create your server в 🔥 Starting > Даём имя серверу > Server Type: Custom > 💟 > Tunnel Service: PlayIt
-8) Перейти на https://playit.gg/account/setup/wizard/new-account/integration-choice > Docker > Регистрируемся > Даём имя > Копируем SECRET_KEY
-9) Вставляем SECRET_KEY
-
 ### Если у вас есть 2-й комп
 1) Скачать сборку с суффиксом "serv" из [релизов](https://github.com/seeedl1ng/THEY/releases)
 2) Скачать [Cleanroom](https://github.com/CleanroomMC/Cleanroom/releases) (который installer.jar)
