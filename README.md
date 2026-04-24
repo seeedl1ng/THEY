@@ -23,18 +23,33 @@
 
 >MMC - для лаунчеров типа Prism, serv - для сервера
 
-4) Перекинуть скаченный .zip в окно лаунчера, нажать "Готово"
+3) Перекинуть скаченный .zip в окно лаунчера, нажать "Готово"
+4) ПКМ по сборке > Изменить... > Параметры > Java > Установка Java > Найти > 26 > Ок
 5) Играть
 
 ## Установка на сервер
 Лагает игра? или у вас слабый проц? - разгрузите серверную часть сборки на сервер
 
 ### Если у вас нету ничего (особенно если вы из US)
-1) Скачайте сборку с суффиксом "serv" из [релизов](https://github.com/seeedl1ng/THEY/releases)
+1) Скачать сборку с суффиксом "serv" из [релизов](https://github.com/seeedl1ng/THEY/releases)
+2) Скачать форк Mine Colab https://github.com/N-aksif-N/MineColab_Improved/releases
+3) Скачать [Cleanroom](https://github.com/CleanroomMC/Cleanroom/releases) (который installer.jar)
+4) Перейти на https://colab.research.google.com > Загрузить > Выбрать MineColab
+
+>(У аккаунта на гугл диске должно быть свободно хотябы пару гигабайт)
+
+5) Нажать Setup requirements
+6) Разрешить этому блокноту доступ к вашим файлам на Google Диске
+7) Create your server в 🔥 Starting > Даём имя серверу > Server Type: Custom > 💟 > Tunnel Service: PlayIt
+8) Перейти на https://playit.gg/account/setup/wizard/new-account/integration-choice > Docker > Регистрируемся > Даём имя > Копируем SECRET_KEY
+9) Вставляем SECRET_KEY
 
 ### Если у вас есть 2-й комп
-1) Скачайте сборку с суффиксом "serv" из [релизов](https://github.com/seeedl1ng/THEY/releases)
-2) Создать start.bat и прописать в нём параметры запуска:
+1) Скачать сборку с суффиксом "serv" из [релизов](https://github.com/seeedl1ng/THEY/releases)
+2) Скачать [Cleanroom](https://github.com/CleanroomMC/Cleanroom/releases) (который installer.jar)
+3) Запустить Cleanroom...installer.jar > Install server > Выбрать папку с сервером > OK (**! Для установки нужен [zapret](https://github.com/Flowseal/zapret-discord-youtube/releases) или VPN**)
+4) Скачать Radmin VPN https://www.radmin-vpn.com/ru > Создайте сеть > Пригласите друзей
+5) Создать start.bat и прописать в нём параметры запуска:
 
 **Пример:**
 ```
@@ -47,13 +62,16 @@ pause
 
 -Xms - сколько ты выделяешь ОЗУ
 
-> /\ Оба этих значения ставте одинаковыми
+> /\ Оба этих значения ставьте одинаковыми
 
 "название_ядра".jar - имя файла сервера.jar
 
 nogui - отключает графический интерфейс консоли (если ядро поддерживает GUI)
 
 pause - останавливает тики, если на сервере нет игроков
+
+5) Открыть server.properties и в server-ip= прописать айпи сервера в Radmin VPN
+6) Запустить start.bat (чтобы выключить сервер пропиши stop в консоли)
 
 <hr>
 
