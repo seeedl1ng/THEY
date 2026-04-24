@@ -1,0 +1,49 @@
+%%bash
+
+SERVER_DIR="/content/drive/MyDrive/minecraft/cleanroom"
+
+cd "$SERVER_DIR" || exit 1
+
+echo "=== Current folder ==="
+pwd
+
+echo "=== Old files ==="
+ls -lh
+
+echo "=== Backup wrong server.jar if exists ==="
+if [ -f server.jar ]; then
+  mv server.jar server.jar.WRONG-INSTALLER
+fi
+
+echo "=== Download Cleanroom installer ==="
+wget -O cleanroom-installer.jar "https://repo.cleanroommc.com/releases/com/cleanroommc/cleanroom/0.5.8-alpha/cleanroom-0.5.8-alpha-installer.jar"
+
+echo "=== Clean old libraries ==="
+rm -rf libraries
+
+echo "=== Install Cleanroom server without GUI ==="
+java -jar cleanroom-installer.jar --installServer
+
+echo "=== Accept EULA ==="
+echo "eula=true" > eula.txt
+
+echo "=== JAR files after install ==="
+find . -maxdepth 2 -type f -name "*.jar" -print
+
+echo "=== Try to choose real server jar ==="
+REAL_JAR=$(find . -maxdepth 2 -type f -name "*.jar" \
+  | grep -vi "installer" \
+  | grep -vi "WRONG" \
+  | head -n 1)
+
+echo "Detected: $REAL_JAR"
+
+if [ -z "$REAL_JAR" ]; then
+  echo "ERROR: No real server jar found. Send me this output."
+  exit 1
+fi
+
+cp "$REAL_JAR" server.jar
+
+echo "=== Final server.jar ==="
+ls -lh server.jar
