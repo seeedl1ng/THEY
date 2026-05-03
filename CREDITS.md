@@ -1,3 +1,7 @@
+# Credits
+
+## Third-party assets
+
 ## Special Thanks
 
 **Main menu artwork / background** — by **Аня Кров**
