@@ -20,6 +20,12 @@ A modpack for Minecraft 1.12.2, with a focus on realism and survival. Based on t
 1) Java 25 is required, but for better performance use Java 26 JRE, ([Download Java Adoptium](https://adoptium.net/temurin/releases/?os=any&arch=any&package=jre&version=26&mode=filter))
 2) [Download](https://github.com/seeedl1ng/THEY/releases) modpack
 
+>MMC - for launchers like Prism, serv - for the server
+
+3) Transfer the downloaded file .zip to the launcher window, click "Done"
+4) Right-Click on the modpack > Edit... > Settings > Java > Java Installation > Detect > 26 > Ok
+5) Play
+
 **The more, the better! Call your friend, and you will have more fun with the modpack**😋
 
 Modpack started from +- 2023.03
