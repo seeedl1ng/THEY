@@ -1,7 +1,7 @@
 # *Scape and Run: Parasites* The Horrors Evolving Yet
 [![TotalDownloads](https://img.shields.io/github/downloads/seeedl1ng/SRP5361/total?label=Загрузок)](https://github.com/seeedl1ng/SRP5361/releases "Download")
 
-◆RU ◇<a href="https://github.com/seeedl1ng/SRP5361/blob/main/README_EN.md">EN<a/>
+◇<a href="https://github.com/seeedl1ng/SRP5361/blob/main/README_EN.md">EN<a/> ◆RU
 
 *!!!Не стесняйтесь задавать вопросы, и сообщать о багах https://github.com/seeedl1ng/SRP5361/issues* пж
 
