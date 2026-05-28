@@ -1,8 +1,9 @@
 # *Scape and Run: Parasites* The Horrors Evolving Yet
+
 [![TotalDownloads](https://img.shields.io/github/downloads/seeedl1ng/SRP5361/total?label=Downloads)](https://github.com/seeedl1ng/SRP5361/releases "Download")
 
-◆EN ◇<a href="https://github.com/seeedl1ng/SRP5361/blob/main/README.md">RU<a/> 
-
+<details>
+  <summary>🇺🇸 EN</summary>
 *!!!Feel free to ask questions and report bugs https://github.com/seeedl1ng/SRP5361/issues* plz
 
 A modpack for Minecraft 1.12.2, with a focus on realism and survival. Based on the Scape and Run: Parasites (SRP)
@@ -29,5 +30,10 @@ A modpack for Minecraft 1.12.2, with a focus on realism and survival. Based on t
 **The more, the better! Call your friend, and you will have more fun with the modpack**😋
 
 Modpack started from +- 2023.03
+</details>
 
+<details>
+  <summary>🇷🇺 RU</summary>
+  Здесь будет отображаться скрытый контент.
+</details>
 
