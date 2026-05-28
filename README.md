@@ -9,7 +9,7 @@
 
 A modpack for Minecraft 1.12.2, with a focus on realism and survival. Based on the Scape and Run: Parasites (SRP)
 
-**Any questions? We have [Wiki](https://github.com/seeedl1ng/SRP5361/wiki/FAQ)!**
+**Any questions? We have [Wiki](https://github.com/seeedl1ng/THEY/wiki/FAQ-EN)!**
 
 ## Installation
 1) Java 25 is required, but for better performance use Java 26 JRE, ([Download Java Adoptium](https://adoptium.net/temurin/releases/?os=any&arch=any&package=jre&version=26&mode=filter))
@@ -35,7 +35,7 @@ Modpack started from +- 2023.03
 Сборка для Minecraft 1.12.2, с упором на реалистичность и выживание.
 В основе лежит мод Scape and Run: Parasites (SRP)
 
-**Есть какие-то вопросы? У нас есть [Вики](https://github.com/seeedl1ng/SRP5361/wiki/FAQ)!**
+**Есть какие-то вопросы? У нас есть [Вики](https://github.com/seeedl1ng/THEY/wiki/FAQ-RU)!**
 
 >*Они уже были здесь. И они свили гнезда... ~nocubeyt*
 
