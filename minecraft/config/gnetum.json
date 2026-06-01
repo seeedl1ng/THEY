@@ -1,0 +1,154 @@
+{
+  "enabled": {
+    "value": "ON"
+  },
+  "showHudFps": {
+    "value": "ON"
+  },
+  "numberOfPasses": 2,
+  "maxFps": 125,
+  "mapVanillaElements": {
+    "minecraft:record_overlay": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:portal": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "minecraft:hotbar": {
+      "enabled": {
+        "value": "ON"
+      },
+      "pass": 1
+    },
+    "gnetum:player_left": {
+      "enabled": {
+        "value": "ON"
+      },
+      "pass": 2
+    },
+    "minecraft:experience": {
+      "enabled": {
+        "value": "ON"
+      },
+      "pass": 2
+    },
+    "minecraft:hud_text": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:fps_graph": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:potion_icons": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "gnetum:minecraft_hand": {
+      "enabled": {
+        "value": "ON"
+      },
+      "pass": 1
+    },
+    "betterhud:other_huds": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:player_list": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:boss_health": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:sleep_overlay": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:scoreboard": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:title": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "gnetum:player_right": {
+      "enabled": {
+        "value": "ON"
+      },
+      "pass": 2
+    },
+    "minecraft:jump_meter": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:tool_highlight": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:subtitles": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    },
+    "minecraft:helmet": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "minecraft:chat_panel": {
+      "enabled": {
+        "value": "ON"
+      },
+      "pass": 1
+    }
+  },
+  "mapModdedElementsPre": {
+    "gnetum_unknown": {
+      "enabled": {
+        "value": "OFF"
+      },
+      "pass": 1
+    }
+  },
+  "mapModdedElementsPost": {
+    "gnetum_unknown": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 2
+    }
+  }
+}

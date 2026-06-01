@@ -1,0 +1,31 @@
+{
+  "maxLevels": 3,
+  "cutoffDistance": 256,
+  "performance": {
+    "gpuFrustumCulling": true,
+    "maxBakesProcessedPerFrame": 256,
+    "parallelShaderCompile": true,
+    "renderQuads": true,
+    "trackingThreads": 6,
+    "terrainThreads": 18,
+    "bakeThreads": 18
+  },
+  "compatibility": {
+    "reversedZ": true,
+    "workaroundAmdVertexPadding": "AUTO",
+    "workaroundIntelMultidrawNotWorking": "AUTO"
+  },
+  "quality": {
+    "forceBlockyMesh": false
+  },
+  "debug": {
+    "backfaceCulling": true,
+    "vanillaTerrainRendering": true,
+    "levelZeroRendering": true,
+    "debugColors": "DISABLED",
+    "exactGeneration": true,
+    "levelZeroTracking": true,
+    "memoryStorage": false,
+    "uncompressedStorage": false
+  }
+}
