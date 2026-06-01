@@ -1,0 +1,16 @@
+filename = 'moballies-0.0.5.jar'
+name = 'Mob Allies'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '710dafe3302851e7dcef987b83a8f5cca284688c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6942775
+project-id = 1336915

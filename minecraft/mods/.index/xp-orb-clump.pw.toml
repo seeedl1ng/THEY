@@ -1,0 +1,16 @@
+filename = 'Fixeroo-2.3.6.jar'
+name = 'Fixeroo'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '62e9ab48dae0b6f864f81a400bdef49964a1bf03'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7095475
+project-id = 633806

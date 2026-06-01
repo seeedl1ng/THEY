@@ -1,0 +1,16 @@
+filename = 'muon-0.2-1.12.jar'
+name = 'Muon'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '736b1cc5daf201e058f879bb5e2ed58c2a2a5e5d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2532746
+project-id = 257996

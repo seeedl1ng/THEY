@@ -1,0 +1,16 @@
+filename = 'celeritasdynamiclights-1.2.7.jar'
+name = 'Celeritas Dynamic Lights'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1c60a982f21fd83df6ac95428ad06cc89814e4bd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7095527
+project-id = 1313831

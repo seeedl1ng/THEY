@@ -1,0 +1,16 @@
+filename = 'soundphysics-1.1.17.jar'
+name = '籁/Sound Physics Remixin'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '65dceadfb54ee689b67697438063836ba82671f6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6858200
+project-id = 951159

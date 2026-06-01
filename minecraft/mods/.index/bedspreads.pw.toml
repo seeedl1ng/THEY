@@ -1,0 +1,16 @@
+filename = 'cosmeticbeds-1.12.2-1.0.2.2.jar'
+name = 'Bedspreads'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ad7a483466e5d3935bf0f27afc27e49e5ae204fc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2667875
+project-id = 308653

@@ -1,0 +1,16 @@
+filename = '3dSkinLayers-forge-mc1.12.2-1.2.0.jar'
+name = 'Skin Layers 3D'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '332db9675de67c5f84b1b0e4f398b5fbe9b6ed56'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3779887
+project-id = 521480

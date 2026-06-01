@@ -1,0 +1,16 @@
+filename = 'naturalnetherportals-1.2.0-mc1.12.x.jar'
+name = 'Natural Nether Portals'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '609b554c593a1905e21ff999f5495f09c832ec0f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2519727
+project-id = 282745

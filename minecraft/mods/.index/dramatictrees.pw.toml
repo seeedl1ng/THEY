@@ -1,0 +1,16 @@
+filename = 'DramaticTrees-1.12.2-0.13.4.jar'
+name = 'Dramatic Trees'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f2def0d31f96364ebb8d9eb7dc37bc72fd7838a4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5496154
+project-id = 637540

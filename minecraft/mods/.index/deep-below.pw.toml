@@ -1,0 +1,16 @@
+filename = 'mimicfish-1.2.jar'
+name = 'Deep Below'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b790fda50dafe4ef4dc89bce36f16cc58afd7c65'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4511518
+project-id = 824553

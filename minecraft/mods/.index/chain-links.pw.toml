@@ -1,0 +1,16 @@
+filename = 'Chain Links-0.5.jar'
+name = 'Chain Links'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '1933bc366012e4fad2497436f3796daef92c947e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2626338
+project-id = 304568
