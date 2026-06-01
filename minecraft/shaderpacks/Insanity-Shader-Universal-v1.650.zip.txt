@@ -1,0 +1,8 @@
+#Fri Aug 15 16:44:13 MSK 2025
+ADVANCED_MATERIALS=false
+REFLECTION=0
+SELF_SHADOW=false
+SHADOW_COLOR=false
+SHADOW_FILTER=false
+shadowDistance=128.0
+shadowMapResolution=512
