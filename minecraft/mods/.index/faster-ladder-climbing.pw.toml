@@ -1,0 +1,18 @@
+filename = 'FasterLadderClimbing-1.12-0.1-146.jar'
+name = 'Faster Ladder Climbing'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1-1.12'
+
+[download]
+hash = 'e3522a372eb6d2f161f35eb55100a101352795fc0d152d908d1724651ae4d5f2710e8c5c68e75dd30736e93528a5032b1296ba3826fde689fa132eca0e459485'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ylYAPOKe/versions/wWWYVoFo/FasterLadderClimbing-1.12-0.1-146.jar'
+
+[update.modrinth]
+mod-id = 'ylYAPOKe'
+version = 'wWWYVoFo'

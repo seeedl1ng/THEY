@@ -1,16 +1,18 @@
-filename = 'Fluidlogged-API-v3.1.2-mc1.12.2.jar'
+filename = 'Fluidlogged-API-v3.3.1-mc1.12.2.jar'
 name = 'Fluidlogged API'
-side = 'both'
+side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.3.1'
 
 [download]
-hash = '7a41aaea6640f61a2994b42fc951948ede2b90e5f0d920a152404c4cfd4adca77c9355dcd1dcc7bf101f1e98e3f19816bf5d959756123e21a427f855f7d5ea23'
+hash = '8ad6f24a9a56c45f47034d93739125855612a40240c3404f34977d3ce8a29ff7aeb356073187bac53e08b50c6b4157927ada5782f945bbe3fd6bdd32aa312e3c'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/vVXPbodS/versions/jTWMu9bZ/Fluidlogged-API-v3.1.2-mc1.12.2.jar'
+url = 'https://cdn.modrinth.com/data/vVXPbodS/versions/O51bbxLD/Fluidlogged-API-v3.3.1-mc1.12.2.jar'
 
 [update.modrinth]
 mod-id = 'vVXPbodS'
-version = 'jTWMu9bZ'
+version = 'O51bbxLD'

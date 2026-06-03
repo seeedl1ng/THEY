@@ -1,2 +1,0 @@
-mintime:150
-maxtime:300

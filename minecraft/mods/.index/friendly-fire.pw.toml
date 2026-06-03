@@ -1,0 +1,18 @@
+filename = 'FriendlyFire-1.12.2-1.5.12.jar'
+name = 'Friendly Fire'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '1.5.12'
+
+[download]
+hash = 'd219c6e0d68dbb2467c02b2f80c24745a00bdc85e8f25fb497e9f4559a9abbdfb4e02ae686513e03fa80b3d93d9b93dd35c701e3135fb9f592e267d8cac39ff4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FTaA4pRW/versions/YZPzk1k3/FriendlyFire-1.12.2-1.5.12.jar'
+
+[update.modrinth]
+mod-id = 'FTaA4pRW'
+version = 'YZPzk1k3'

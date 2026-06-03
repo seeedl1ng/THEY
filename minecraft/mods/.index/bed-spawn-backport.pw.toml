@@ -1,0 +1,18 @@
+filename = 'Bed Spawn Backport-1.0.2.jar'
+name = 'Bed Spawn Backport'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.2'
+
+[download]
+hash = '6c474c11be99a3fa398618509a50f50b113d8d01aac9b8a49f7fd6eae6067a40ebb5c26b24508a34472bd27ac279e8ce626d42714057e07b1b8fa973f2f2e924'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gQo5Zqum/versions/NDEB8MTw/Bed Spawn Backport-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'gQo5Zqum'
+version = 'NDEB8MTw'

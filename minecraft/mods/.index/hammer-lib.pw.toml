@@ -1,16 +1,18 @@
-filename = 'HammerLib-1.12.2-12.2.58.jar'
+filename = 'HammerLib-1.12.2-12.2.60.jar'
 name = 'HammerLib'
-side = 'both'
+side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '12.2.60'
 
 [download]
-hash = 'd693d897584c3d3d629a7fda02502e362a250b78'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '17280f14daaf4c9ca667b7392b13954a6dcfa7187d865009592b86e7fecc07784b5f8e60669591ac3a61542c26eab160a3a10bc8ea212f693c33330adcbae3a7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PlkSuVtM/versions/5K3osgic/HammerLib-1.12.2-12.2.60.jar'
 
-[update.curseforge]
-file-id = 6348753
-project-id = 247401
+[update.modrinth]
+mod-id = 'PlkSuVtM'
+version = '5K3osgic'

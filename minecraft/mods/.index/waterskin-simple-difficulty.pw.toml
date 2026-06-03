@@ -1,0 +1,17 @@
+filename = 'waterskin-1.0.1.jar'
+name = 'WaterSkin (Simple Difficulty)'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'waterskin-1.0.1.jar'
+
+[download]
+hash = 'feb37c7b5fe4b518925abd06178a8b22bc420e25'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3776463
+project-id = 619774

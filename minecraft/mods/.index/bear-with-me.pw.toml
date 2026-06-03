@@ -1,0 +1,18 @@
+filename = 'bearwithme-1.12.2-1.3.1.jar'
+name = 'Bear With Me'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'bearwithme-1.12.2-1.3.1.jar'
+
+[download]
+hash = 'd86a4a806435c2090ab0cece6bcd9adcf6222177'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2554918
+project-id = 253775

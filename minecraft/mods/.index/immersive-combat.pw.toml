@@ -1,16 +1,17 @@
-filename = 'ImmersiveCombat-4-25-2024-(9-27-24).jar'
+filename = 'ImmersiveCombat-12-13-25.jar'
 name = 'Immersive Combat (1.12 Better Combat)'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ImmersiveCombat-12-13-25.jar'
 
 [download]
-hash = 'be904d228389744d1f42f12fb4e58e49365e9436'
+hash = '35d99910ee7f813fdc8da25cf38f23fe2b2dca03'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5291106
+file-id = 7331026
 project-id = 541058

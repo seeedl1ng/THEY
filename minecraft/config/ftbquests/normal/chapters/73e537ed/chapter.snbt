@@ -1,0 +1,10 @@
+{
+	always_invisible: 0b,
+	description: [
+		"Твой Опыт - это самое главное для выживания"
+	],
+	default_quest_shape: "",
+	group: 0,
+	icon: "minecraft:red_flower",
+	title: "Основы"
+}

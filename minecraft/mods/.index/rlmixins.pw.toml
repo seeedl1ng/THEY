@@ -1,0 +1,21 @@
+filename = 'RLMixins-1.4.7.jar'
+name = 'RLMixins'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.7'
+
+[download]
+hash = 'ea039885d242c4152ae26383d4b58e485951bbc4ecffcf06da1aec6828e450e3db3ea6dec240db1c8d04d13c55d9cf85cf668f162b90d61ff0edc279f025487b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4zUhFmMM/versions/1ahPgUNe/RLMixins-1.4.7.jar'
+
+[update.modrinth]
+mod-id = '4zUhFmMM'
+version = '1ahPgUNe'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'e00stJKZ'
+type = 'REQUIRED'
