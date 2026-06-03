@@ -1,0 +1,17 @@
+filename = 'SimpleDifficulty-1.12.2-0.7.0.jar'
+name = 'SimpleDifficulty for Underdog'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'SimpleDifficulty-1.12.2-0.7.0'
+
+[download]
+hash = '4888902be78077a0f59e0a268dbca965cc34e835'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6266763
+project-id = 574162

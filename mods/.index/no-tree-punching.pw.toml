@@ -1,0 +1,16 @@
+filename = 'notreepunching-2.0.21.jar'
+name = 'No Tree Punching'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4e3d074bb19ba82ac9135c929841e7381d3af25c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2983385
+project-id = 289043

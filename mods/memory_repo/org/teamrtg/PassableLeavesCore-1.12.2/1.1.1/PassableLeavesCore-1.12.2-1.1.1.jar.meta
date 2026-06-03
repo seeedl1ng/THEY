@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+FMLAT: passableleaves_at.cfg
+Maven-Artifact: org.teamrtg:PassableLeavesCore-1.12.2:1.1.1
+FMLCorePlugin: teamrtg.passableleaves.asm.PassableLeavesCore
+

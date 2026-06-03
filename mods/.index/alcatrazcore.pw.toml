@@ -1,0 +1,16 @@
+filename = 'alcatrazcore-1.0.4.jar'
+name = 'AlcatrazCore'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '81f53ff51c5559ef93e599d489aa736d714b1ff9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2666560
+project-id = 304493

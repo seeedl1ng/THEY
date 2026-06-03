@@ -1,0 +1,17 @@
+filename = 'SharpBone-1.12.2-1.0.jar'
+name = 'SharpBone'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'SharpBone-1.12.2-1.0.jar'
+
+[download]
+hash = 'e39ae880c3d8e3fd20531e7891992a50865bfef7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2485153
+project-id = 277609

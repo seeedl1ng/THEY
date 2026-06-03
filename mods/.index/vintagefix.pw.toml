@@ -1,0 +1,18 @@
+filename = 'vintagefix-0.7.0.jar'
+name = 'VintageFix'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.7.0'
+
+[download]
+hash = 'f900ee498a574209f4719135c41a06d1c14899d0905c9c4dbd632bb4e78a01026258f7810b19885737e67b81a336d4926389a4ee9732b32d77e83503e86d4387'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/e6vNsbAm/versions/6MuNBnRe/vintagefix-0.7.0.jar'
+
+[update.modrinth]
+mod-id = 'e6vNsbAm'
+version = '6MuNBnRe'

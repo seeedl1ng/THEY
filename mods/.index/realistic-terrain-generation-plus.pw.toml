@@ -1,0 +1,21 @@
+filename = 'RTG-1.12.2-7.3.3.6.jar'
+name = 'Realistic Terrain Generation Plus'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'RTG-1.12.2-7.3.3.6.jar'
+
+[download]
+hash = 'c269be04a1b5e8f94b8dc2f60e0da5da0966a47f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5768048
+project-id = 981628
+
+[[x-prismlauncher-dependencies]]
+addonId = '76544'
+type = 'OPTIONAL'

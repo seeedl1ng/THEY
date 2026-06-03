@@ -1,0 +1,18 @@
+filename = 'arrowed-v1.jar'
+name = 'Ow I got Arrowed'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'arrowed-v1.jar'
+
+[download]
+hash = '5a6b460c3b27e4af422cd0715257c4b127072f2b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6656181
+project-id = 1286976

@@ -1,0 +1,25 @@
+filename = 'armorunder-mc1.12.2-1.0.0.jar'
+name = 'Armor Underwear Mod [FORGE]'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'armorunder-mc1.12.2-1.0.0.jar'
+
+[download]
+hash = 'e2d720daf5e0a261b32aac6f2809bde0d2b8eaab'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2660325
+project-id = 310383
+
+[[x-prismlauncher-dependencies]]
+addonId = '246391'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '311327'
+type = 'REQUIRED'

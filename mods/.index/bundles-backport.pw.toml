@@ -1,0 +1,16 @@
+filename = 'Bundles-1.2.3.jar'
+name = 'Bundles Backport'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '984677647178be0f8fe7f826736098599350b90c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6339953
+project-id = 902861

@@ -1,0 +1,16 @@
+filename = 'NoCubes_SRP_Survival_Addon_3.0.0.jar'
+name = 'Scape and Run: Parasites Survival Addon (by NoCube)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '45e69bfd8634ebc586a02bccbbfdb535e400cbf0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4048221
+project-id = 693318

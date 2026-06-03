@@ -1,0 +1,217 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/they/textures/web-preview.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = top-left
+  x = 9
+  action = movebutton
+  y = 121
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  seconds = 0.2
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-left
+  x = 9
+  action = movebutton
+  y = 21
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 97
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  seconds = 0.2
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-left
+  x = 112
+  action = movebutton
+  y = 21
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  seconds = 0.2
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = top-left
+  x = 9
+  action = movebutton
+  y = 90
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  seconds = 0.25
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = bottom-right
+  x = -107
+  action = movebutton
+  y = -46
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 112
+  width = 417
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 43d702f3-92c1-4f6a-9f3c-1ef7684dac771774090890799
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 169
+  action = deep_customization_element:title_screen_branding
+  actionid = 4ad1a8c6-fa3f-439a-b774-d498c2aa7bcd1774090890799
+  y = 291
+  height = 60
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 327
+  width = 312
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 87de0328-a786-46ec-979e-2f2604a4ffb31774090890800
+  y = 333
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 82f799d8-fe51-4e3b-baf7-9485626a716f1774090890800
+  y = 188
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = a9cd5d23-c5f7-4f98-8149-bb18994b05491774090890800
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = false
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 52ccc98f-7df0-4537-a95e-6d7fd1ddd1601774090890800
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = top-right
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://github.com/seeedl1ng/THEY/releases%btnaction_splitter_fm%
+  description = {"placeholder":"local","values":{"key":"main.update.tooltip"}}
+  label = {"placeholder":"local","values":{"key":"main.update.button"}} §a{"placeholder":"webtext","values":{"link":"https://seeedl1ng.github.io/THEYping.github.io"}}
+  loopbackgroundanimations = true
+  x = -149
+  width = 100
+  action = addbutton
+  actionid = 4a0c306e-0cc6-4ab4-90d5-4ff4673e1b5c1774093856105
+  y = 95
+  [loading_requirement:fancymenu_visibility_requirement_is_number][requirement_mode:if][req_id:c72f2bb2-8431-4ce6-b6d5-bbc95f2a60801776879925618] = ["mode":"smaller-than","number":"0.02","compare_with":"{"placeholder":"webtext","values":{"link":"https://seeedl1ng.github.io/THEYping.github.io"}}"]$
+  height = 20
+}
+
+customization {
+  orientation = top-right
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = &e{"placeholder":"local","values":{"key":"main.update.text"}}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  [loading_requirement:fancymenu_visibility_requirement_is_number][requirement_mode:if][req_id:b3a56823-9e9b-4745-bf72-30eff527c4a41776879856676] = ["mode":"smaller-than","number":"0.02","compare_with":"{"placeholder":"webtext","values":{"link":"https://seeedl1ng.github.io/THEYping.github.io"}}"]$
+  x = -166
+  width = 131
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 2ccc8be2-fd8e-432c-b24c-b3a4534cbe361774094263272
+  y = 63
+  alignment = left
+  height = 12
+}
+

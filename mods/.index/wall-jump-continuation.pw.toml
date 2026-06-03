@@ -1,0 +1,17 @@
+filename = 'walljump-1.4.1.jar'
+name = 'Wall-Jump. Continuation!'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'walljump-1.4.1.jar'
+
+[download]
+hash = '0501fc472abe9b82698dedabe22bc5c9d7750431'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6216500
+project-id = 1204052

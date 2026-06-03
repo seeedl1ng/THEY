@@ -1,0 +1,18 @@
+filename = 'SRParasites-1.10.6.jar'
+name = 'Scape and Run Parasites'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '1.10.6'
+
+[download]
+hash = '1dba5440d667794f20f3035844f352d69e540c824f0e09ae078fabf90e097ac181a11c543f64b4367157cda05712ea0c7ab13b111e8a16f8f8a91b8b6a2b53a3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MJX7HTHx/versions/QI9vxDqv/SRParasites-1.10.6.jar'
+
+[update.modrinth]
+mod-id = 'MJX7HTHx'
+version = 'QI9vxDqv'

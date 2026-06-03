@@ -1,0 +1,18 @@
+filename = 'SoundRelay-v1.0-forge-1.12.2.jar'
+name = 'SoundRelay'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'SoundRelay-v1.0-forge-1.12.2.jar'
+
+[download]
+hash = 'aa9c58924a2bc2f4da80208f86de97852ed8d382'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7523777
+project-id = 1443972

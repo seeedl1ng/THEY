@@ -1,0 +1,18 @@
+filename = 'carrotslib-mc1.12.2-1.0.0b1.jar'
+name = 'Carrots Library [FORGE]'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'carrotslib-mc1.12.2-1.0.0b1.jar'
+
+[download]
+hash = '0fb74fdf5ea7f4830523255d6ce742e8007b0c12'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2660247
+project-id = 311327
