@@ -1,6 +1,6 @@
 # *Scape and Run: Parasites* The Horrors Evolving Yet
 
-[![TotalDownloads](https://img.shields.io/github/downloads/seeedl1ng/THEY/total?label=Downloads)](https://github.com/seeedl1ng/THEY/releases "Download")
+[![Downloads](https://img.shields.io/github/downloads/seeedl1ng/THEY/total?logo=github&label=Downloads)](https://github.com/seeedl1ng/THEY/releases)
 
 <details>
   <summary>🇺🇸 EN</summary>
