@@ -43,7 +43,7 @@ Development of the modpack started around March 2023
 
 ## Установка
 1) Необходима Java 25, но для большей производительности используйте Java 26 JRE,  ([Скачать Java Adoptium](https://adoptium.net/temurin/releases/?os=any&arch=any&package=jre&version=26&mode=filter))
-2) [Скачать](https://github.com/seeedl1ng/THEY/releases) сборку
+2) Скачать сборку из [Releases](https://github.com/seeedl1ng/THEY/releases)
 
 >MMC - для лаунчеров наподобие Prism
 >
