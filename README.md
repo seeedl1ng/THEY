@@ -21,6 +21,8 @@ A modpack for Minecraft 1.12.2, with a focus on realism and survival. Based on t
 4) Right-Click on the modpack > Edit... > Settings > Java > Java Installation > Detect > 26 > Ok
 5) Play
 
+<hr>
+
 **The more, the better! Call your friend, and you will have more fun with the modpack**😋
 
 Modpack started from +- 2023.03
@@ -48,38 +50,6 @@ Modpack started from +- 2023.03
 3) Перекинуть скаченный .zip в окно лаунчера, нажать "Готово"
 4) ПКМ по сборке > Изменить... > Параметры > Java > Установка Java > Найти > 26 > Ок
 5) Играть
-
-## Установка на сервер
-Лагает игра? или у вас слабый проц? - разгрузите серверную часть сборки на сервер
-
-### Если у вас есть 2-й комп
-1) Скачать сборку с суффиксом "serv" из [релизов](https://github.com/seeedl1ng/THEY/releases)
-2) Скачать [Cleanroom](https://github.com/CleanroomMC/Cleanroom/releases) (который installer.jar)
-3) Запустить Cleanroom...installer.jar > Install server > Выбрать папку с сервером > OK (**! Для установки нужен [zapret](https://github.com/Flowseal/zapret-discord-youtube/releases) или VPN**)
-4) Скачать Radmin VPN https://www.radmin-vpn.com/ru > Создайте сеть > Пригласите друзей
-5) Создать start.bat и прописать в нём параметры запуска:
-
-**Пример:**
-```
-"C:\Program Files\Eclipse Adoptium\jre-26.0.0.35-hotspot\bin\java" -Xmx5G -Xms5G -jar cleanroom-0.5.8-alpha.jar nogui 
-pause
-```
-Первые ковычки - путь до java.exe
-
--Xmx - максимальное значение ОЗУ
-
--Xms - сколько ты выделяешь ОЗУ
-
-> /\ Оба этих значения ставьте одинаковыми
-
-"название_ядра".jar - имя файла сервера.jar
-
-nogui - отключает графический интерфейс консоли (если ядро поддерживает GUI)
-
-pause - останавливает тики, если на сервере нет игроков
-
-5) Открыть server.properties и в server-ip= прописать айпи сервера в Radmin VPN
-6) Запустить start.bat (чтобы выключить сервер пропиши stop в консоли)
 
 <hr>
 
