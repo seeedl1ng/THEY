@@ -39,8 +39,6 @@ Modpack started from +- 2023.03
 
 **Есть какие-то вопросы? У нас есть [Вики](https://github.com/seeedl1ng/THEY/wiki/FAQ-RU)!**
 
->*Они уже были здесь. И они свили гнезда... ~nocubeyt*
-
 ## Установка
 1) Необходима java 25, но для большей производительности используйте java 26 JRE,  ([Скачать Java Adoptium](https://adoptium.net/temurin/releases/?os=any&arch=any&package=jre&version=26&mode=filter))
 2) [Скачать](https://github.com/seeedl1ng/THEY/releases) сборку
