@@ -1,0 +1,13 @@
+name = "T.H.E.Y"
+author = "seedl1ng"
+version = "0.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "637781567d52f75298d91a8679e0bf6b09825f799e5704579fe181d411aab57c"
+
+[versions]
+forge = "14.23.5.2864"
+minecraft = "1.12.2"
