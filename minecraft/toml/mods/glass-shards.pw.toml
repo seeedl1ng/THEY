@@ -1,0 +1,12 @@
+filename = 'glass_shards_mc1.12-1.7.jar'
+name = 'Glass Shards'
+
+[download]
+hash = '1eb33779ee9e94b9159578bb677df25fc1347a51'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 2444806
+project-id = 226834

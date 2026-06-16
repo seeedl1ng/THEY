@@ -1,0 +1,14 @@
+filename = 'OceanicExpanse-1.2.2.jar'
+name = 'Oceanic Expanse'
+side = 'both'
+
+[download]
+hash = '33b6749bca94fdf299591f25af4cc7fd158a3fd9c6b7a35002f21d4f53ea59685bb5b75cd0415fb202ebc450bcfd595e65dbb1a2a405050d67c8e92ac7b47ad5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/W81ZzfUo/versions/JnAUI2fI/OceanicExpanse-1.2.2.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'W81ZzfUo'
+version = 'JnAUI2fI'

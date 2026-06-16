@@ -1,0 +1,13 @@
+filename = 'Fluidlogged-API-v3.3.2-mc1.12.2.jar'
+name = 'Fluidlogged API'
+
+[download]
+hash = '74f201ced0a7a0e5f783c844b3e5fae8aaa715e363c39a875c4108ad9628dc52918d2f9b619fc66bcd050385a6e4e0f4062d89b246db9d1085a371bd6e086c27'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vVXPbodS/versions/5TWwJPYV/Fluidlogged-API-v3.3.2-mc1.12.2.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'vVXPbodS'
+version = '5TWwJPYV'

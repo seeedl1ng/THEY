@@ -1,0 +1,14 @@
+filename = 'TOWW Cave Whispers.zip'
+name = 'The One Who Watches Cave Whispers'
+side = 'client'
+
+[download]
+hash = 'ba6342dbde8bd232187e2051cca774599233f83e459812bd4f8d106f8377e322aba7051a3b75d172602e1bfdeafb4888dfe4cfe47ea03d241932f472001f9580'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hmTFdIsI/versions/vdCaHa4l/TOWW Cave Whispers.zip'
+
+[update]
+[update.modrinth]
+mod-id = 'hmTFdIsI'
+version = 'vdCaHa4l'

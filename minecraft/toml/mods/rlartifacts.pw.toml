@@ -1,0 +1,14 @@
+filename = 'RLArtifacts-1.1.2.jar'
+name = 'RLArtifacts'
+side = 'both'
+
+[download]
+hash = '656a9d4bde117e68a776df81d35da135a9fdc6af57539864e048e9473e934614a16184bf88eb65a96cdcb487c83b1271a5f1ac21522fba0b5dda375748687b17'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4qpZwEbF/versions/smRHJT4S/RLArtifacts-1.1.2.jar'
+
+[update]
+[update.modrinth]
+mod-id = '4qpZwEbF'
+version = 'smRHJT4S'

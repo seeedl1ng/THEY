@@ -1,0 +1,14 @@
+filename = 'RLFoliage-MC1.12-2.5.3.jar'
+name = 'RLFoliage'
+side = 'client'
+
+[download]
+hash = 'a9a08b34e19e7177f9a8fb9d8960ef4bb333238b19608d424f6d8c5d3f5622db8947e221340809a39aef30c1ae94a5e28d4d21346d558c0fe9e79ce7ccdc1b27'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UYCC0zlc/versions/tZLrYypk/RLFoliage-MC1.12-2.5.3.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'UYCC0zlc'
+version = 'tZLrYypk'

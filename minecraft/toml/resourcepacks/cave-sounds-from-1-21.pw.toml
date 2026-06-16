@@ -1,0 +1,12 @@
+filename = '1.21 Cave Sounds.zip'
+name = 'New Cave Sounds From Tricky Trials Update'
+
+[download]
+hash = 'd6d763a3f60e17081e82b9982e3c98c3ae5236c3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 7052073
+project-id = 1273798

@@ -1,0 +1,1 @@
+{"variants":{"check_decay=true,decayable=true":{"model":"they:0"},"check_decay=true,decayable=false":{"model":"they:0"},"check_decay=false,decayable=true":{"model":"they:0"},"check_decay=false,decayable=false":{"model":"they:0"}}}

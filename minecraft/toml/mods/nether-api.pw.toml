@@ -1,0 +1,12 @@
+filename = 'Nether-API-v1.4.5-mc1.12.2.jar'
+name = 'Nether API'
+
+[download]
+hash = 'fdd4caa9d5da0f05f9c17ca777a8a3b45190071f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 8201135
+project-id = 1306115

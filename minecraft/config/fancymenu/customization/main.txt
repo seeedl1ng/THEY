@@ -180,6 +180,18 @@ customization {
 }
 
 customization {
+  orientation = top-left
+  name = firework
+  x = 440
+  width = 201
+  actionid = 310c2d0c-8321-4549-b086-dc1b141b1c001780639755065
+  action = addanimation
+  y = 5
+  [loading_requirement:fancymenu_visibility_requirement_is_number][requirement_mode:if][req_id:7624b2e9-6755-4d8a-af43-03114bccfc041780639776366] = ["mode":"smaller-than","number":"0.2","compare_with":"{"placeholder":"webtext","values":{"link":"https://seeedl1ng.github.io/THEYping.github.io"}}"]$
+  height = 201
+}
+
+customization {
   orientation = top-right
   restartbackgroundanimations = true
   buttonaction = openlink;https://github.com/seeedl1ng/THEY/releases%btnaction_splitter_fm%
@@ -191,7 +203,7 @@ customization {
   action = addbutton
   actionid = 4a0c306e-0cc6-4ab4-90d5-4ff4673e1b5c1774093856105
   y = 95
-  [loading_requirement:fancymenu_visibility_requirement_is_number][requirement_mode:if][req_id:c72f2bb2-8431-4ce6-b6d5-bbc95f2a60801776879925618] = ["mode":"smaller-than","number":"0.02","compare_with":"{"placeholder":"webtext","values":{"link":"https://seeedl1ng.github.io/THEYping.github.io"}}"]$
+  [loading_requirement:fancymenu_visibility_requirement_is_number][requirement_mode:if][req_id:c72f2bb2-8431-4ce6-b6d5-bbc95f2a60801776879925618] = ["mode":"smaller-than","number":"0.2","compare_with":"{"placeholder":"webtext","values":{"link":"https://seeedl1ng.github.io/THEYping.github.io"}}"]$
   height = 20
 }
 
@@ -205,7 +217,7 @@ customization {
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  [loading_requirement:fancymenu_visibility_requirement_is_number][requirement_mode:if][req_id:b3a56823-9e9b-4745-bf72-30eff527c4a41776879856676] = ["mode":"smaller-than","number":"0.02","compare_with":"{"placeholder":"webtext","values":{"link":"https://seeedl1ng.github.io/THEYping.github.io"}}"]$
+  [loading_requirement:fancymenu_visibility_requirement_is_number][requirement_mode:if][req_id:b3a56823-9e9b-4745-bf72-30eff527c4a41776879856676] = ["mode":"smaller-than","number":"0.2","compare_with":"{"placeholder":"webtext","values":{"link":"https://seeedl1ng.github.io/THEYping.github.io"}}"]$
   x = -166
   width = 131
   action = custom_layout_element:fancymenu_customization_item_text

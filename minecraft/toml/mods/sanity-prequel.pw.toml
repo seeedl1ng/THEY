@@ -1,0 +1,14 @@
+filename = 'sanity-1.4.0.jar'
+name = 'Sanity: Prequel'
+side = 'both'
+
+[download]
+hash = '807f6c537658bf6d2939cad5a70422148b8c398022dc42a431f9eeb0c9a5398d72e64e516ad0069a900f861049a7056840143092aecaf34d61657caff5e8b0d1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eypMVEkJ/versions/adHgsmi4/sanity-1.4.0.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'eypMVEkJ'
+version = 'adHgsmi4'

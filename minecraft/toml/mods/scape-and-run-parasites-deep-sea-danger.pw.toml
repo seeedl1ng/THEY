@@ -1,0 +1,13 @@
+filename = 'SRPDeepSeaDanger-1.10.2.4.1.jar'
+name = 'Scape and Run: Parasites Deep Sea Danger'
+
+[download]
+hash = 'f75c02dada0d99068d4ed9f2c76ee0a0ed62ce6d1dce04400a1c4e24f104a9c7292d5eb96fb1db573e70f01fd19033a20ff478af45a67407d7167241c61671f8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/x9YO9RHW/versions/ce19zYWT/SRPDeepSeaDanger-1.10.2.4.1.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'x9YO9RHW'
+version = 'ce19zYWT'

@@ -1,0 +1,15 @@
+name = "Celeritas-auto-build"
+filename = "celeritas-forge-mc12.2-2.4.0-dev.jar"
+side = "both"
+
+[download]
+url = "https://github.com/kappa-maintainer/Celeritas-auto-build/releases/download/release/2.4.0-dev.4-6-g7d0eeed5-20260601T073637/celeritas-forge-mc12.2-2.4.0-dev.jar"
+hash-format = "sha256"
+hash = "70e752877752e786c6e386c734ff9ea73a435bf8968aab36ed035cd4b7812473"
+
+[update]
+[update.github]
+branch = "main"
+regex = "celeritas.*\\.jar"
+slug = "kappa-maintainer/Celeritas-auto-build"
+tag = "release/2.4.0-dev.4-6-g7d0eeed5-20260601T073637"

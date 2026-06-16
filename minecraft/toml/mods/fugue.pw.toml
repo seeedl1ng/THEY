@@ -1,0 +1,13 @@
+filename = '+Fugue-0.23.6.jar'
+name = 'Fugue'
+
+[download]
+hash = '90a599317c979af0f9286590542ecc8c3bc8109ce448df2ea0e1317804451dd349b40cc0d4e9da6243005f84f80416e5ee4391d0a1a080582aff215052f98c34'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vylTACsh/versions/9T43RGc3/%2BFugue-0.23.6.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'vylTACsh'
+version = '9T43RGc3'

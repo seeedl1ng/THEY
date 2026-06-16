@@ -1,0 +1,14 @@
+filename = 'celeritasextra-0.4.5.jar'
+name = 'Celeritas Extra'
+side = 'client'
+
+[download]
+hash = 'ef7ec104e05d9de330c48432542cceb0f2d62f7475be186b530f0d09542f264b92ad46db9b9c6f3a0f39a6af673fff2634cdcdddc07e631eac0020fac075004f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LXQekDcE/versions/VS0dnS1N/celeritasextra-0.4.5.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'LXQekDcE'
+version = 'VS0dnS1N'

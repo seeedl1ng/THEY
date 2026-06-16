@@ -1,0 +1,12 @@
+filename = 'Deeper-Depths-1.12.2-1.1.1a.jar'
+name = 'Deeper Depths'
+
+[download]
+hash = 'd4279e053a052058299246f8eea3b7e302bd5b91'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 7512773
+project-id = 1101129

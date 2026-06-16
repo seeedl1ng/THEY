@@ -1,0 +1,13 @@
+filename = 'muon-0.2-1.12.jar'
+name = 'Muon'
+side = 'both'
+
+[download]
+hash = '736b1cc5daf201e058f879bb5e2ed58c2a2a5e5d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 2532746
+project-id = 257996

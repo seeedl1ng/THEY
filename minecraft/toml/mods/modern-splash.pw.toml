@@ -1,0 +1,13 @@
+filename = 'modernsplash-1.4.0.jar'
+name = 'Modern Splash'
+side = 'client'
+
+[download]
+hash = 'bdcf9fa0bd36771cd0ed88609a3a8d6f09ec9086'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 6501489
+project-id = 629058

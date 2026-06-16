@@ -1,0 +1,12 @@
+filename = 'RealBench-Nomi-CEu-1.0.4.jar'
+name = 'RealBench: Nomi-CEu Edition'
+
+[download]
+hash = '9cdbfa8fd24b8f9d112faea994f58950291dbfc2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 4941450
+project-id = 945503

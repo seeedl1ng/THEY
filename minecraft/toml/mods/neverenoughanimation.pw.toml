@@ -1,0 +1,13 @@
+filename = 'neverenoughanimations-1.0.7.jar'
+name = 'NeverEnoughAnimations'
+side = 'both'
+
+[download]
+hash = 'a26586467433467ba4b1f1bb0acdeabb7ed2fa67'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 7289408
+project-id = 1062347

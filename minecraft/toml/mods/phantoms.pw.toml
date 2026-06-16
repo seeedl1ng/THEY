@@ -1,0 +1,12 @@
+filename = 'Phantoms-1.12.2-1.0.0a.jar'
+name = 'Phantoms'
+
+[download]
+hash = '6ff167cf2a0f0601f3e00fda289b413ae553aaff'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 8219362
+project-id = 1499740

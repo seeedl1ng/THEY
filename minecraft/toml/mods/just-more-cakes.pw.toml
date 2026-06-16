@@ -1,0 +1,7 @@
+name = 'Just More Cakes! (NeoForge/Fabric)'
+filename = 'JustMoreCakes-2.0_MC1.12.2.jar'
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/2935/88/JustMoreCakes-2.0_MC1.12.2.jar"
+hash-format = 'sha1'
+hash = '87e4aadb75e6ef9e4788a21b9856cc641498d7fa'

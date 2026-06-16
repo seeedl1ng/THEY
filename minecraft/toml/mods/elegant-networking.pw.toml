@@ -1,0 +1,12 @@
+filename = 'elegant-networking-1.12-3.16.jar'
+name = 'ElegantNetworking'
+
+[download]
+hash = '5800d43af2806e5f264020a5d5fb1599a3f20bc9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 3891722
+project-id = 433025

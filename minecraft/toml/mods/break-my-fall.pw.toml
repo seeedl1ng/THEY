@@ -1,0 +1,14 @@
+filename = 'Configurable_Falls_V0.1.2-1.12.2.jar'
+name = 'Break My Fall'
+side = 'both'
+
+[download]
+hash = '6ab1bb7b32bb9b20361924dc8302b6b6098df2c3599c744591651df40677c58b4f8956a13467be9ad5cb051e33dd95968550225bce455e5cbf13d932bc671a19'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZNhcuAvG/versions/l7uWwFub/Configurable_Falls_V0.1.2-1.12.2.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'ZNhcuAvG'
+version = 'l7uWwFub'

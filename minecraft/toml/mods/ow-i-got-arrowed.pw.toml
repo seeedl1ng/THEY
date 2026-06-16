@@ -1,0 +1,12 @@
+filename = 'arrowed-v1.jar'
+name = 'Ow I got Arrowed'
+
+[download]
+hash = '5a6b460c3b27e4af422cd0715257c4b127072f2b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 6656181
+project-id = 1286976

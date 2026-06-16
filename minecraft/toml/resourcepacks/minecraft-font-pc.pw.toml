@@ -1,0 +1,12 @@
+filename = 'MinecraftFont.zip'
+name = 'Minecraft Font (PC)'
+
+[download]
+hash = '56fb15fe9f059de8745db9f0088f2d4e3640403d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 2573588
+project-id = 253792

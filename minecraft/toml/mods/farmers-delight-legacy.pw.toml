@@ -1,0 +1,12 @@
+filename = 'FarmersDelightLegacy-1.0.9.jar'
+name = "Farmer's Delight Legacy"
+
+[download]
+hash = '765519dbd14739c1402313d89f0ec8bd02620621'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 8133742
+project-id = 1517486

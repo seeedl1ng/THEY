@@ -1,0 +1,14 @@
+filename = 'loadmyresources_forge_1.0.4_MC_1.12-1.12.2.jar'
+name = 'Load My Resources'
+side = 'client'
+
+[download]
+hash = '5835cb3bf32f1bf59b7b5401a661e866b9a8f5897e74075f27d7e74fb9c1032444421c30e35dcffa0ccd16e9a6bc7a9f9a6b087d1f2964607898ec861a7aa087'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TqCKvqjC/versions/7WP876Jm/loadmyresources_forge_1.0.4_MC_1.12-1.12.2.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'TqCKvqjC'
+version = '7WP876Jm'

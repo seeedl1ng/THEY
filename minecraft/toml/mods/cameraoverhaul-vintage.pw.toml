@@ -1,0 +1,13 @@
+filename = 'cameraoverhaul-v2.1.0-vintage.jar'
+name = 'CameraOverhaul'
+
+[download]
+hash = '64a9658851db1c25c602f6db96506aa283d4f0aa90c5b9a6d086f291e120a2c733725fb5a8259d4ffb9089f2c9e31272a2f62e27f099bc2c140c48a2956036ce'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/K2hCr1wS/versions/E0iruY5F/cameraoverhaul-v2.1.0-vintage.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'K2hCr1wS'
+version = 'E0iruY5F'

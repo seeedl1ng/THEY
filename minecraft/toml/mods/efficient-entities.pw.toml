@@ -1,0 +1,14 @@
+filename = 'efficient-entities.jar'
+name = 'Efficient Entities'
+side = 'client'
+
+[download]
+hash = 'b78ea8df6b7044e68f66c51fd25e62e28904d8275546974b4755376f849516a287ad864805af489da1a45ee7846c6949f472ae0c4131ff496643e8acd4c547f9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/A67229Zz/versions/ga31MqUb/efficient-entities.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'A67229Zz'
+version = 'ga31MqUb'

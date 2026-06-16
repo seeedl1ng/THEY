@@ -1,0 +1,13 @@
+filename = 'ArmoredArms-v1.5.1-1.12.2-release.jar'
+name = 'Armored Arms'
+
+[download]
+hash = '3b5a043cefec74f4a989a321d6d985311d27329f5393ca92a416281f5d63b9d9187a561c1fd84fb4ef0f8d98f9f8a836fe3065937dfa55c386d38bd9cd2aa8e2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/utfvkRlv/versions/qG32DVUR/ArmoredArms-v1.5.1-1.12.2-release.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'utfvkRlv'
+version = 'qG32DVUR'

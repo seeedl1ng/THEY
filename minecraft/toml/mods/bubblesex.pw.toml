@@ -1,0 +1,12 @@
+filename = 'BubblesEX-1.6.5.jar'
+name = 'BubblesEX'
+
+[download]
+hash = 'c6a7184b6f5bf1b137e44dd118141f4db490497b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 7821189
+project-id = 1192071

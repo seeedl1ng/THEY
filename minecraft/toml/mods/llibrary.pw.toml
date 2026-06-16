@@ -1,0 +1,13 @@
+filename = 'llibrary-1.7.20-1.12.2.jar'
+name = 'LLibrary'
+side = 'both'
+
+[download]
+hash = 'fba97f9dbe750f17904c00db8ff58291595106b8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 3116493
+project-id = 243298

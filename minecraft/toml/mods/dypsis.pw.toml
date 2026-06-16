@@ -1,0 +1,12 @@
+filename = 'Dypsis-1.0.1.jar'
+name = 'Dypsis'
+
+[download]
+hash = '0eb920413f7adfb181582041fb87def290ebf125'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 6870002
+project-id = 1316544

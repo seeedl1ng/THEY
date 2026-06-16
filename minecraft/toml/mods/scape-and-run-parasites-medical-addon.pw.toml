@@ -1,0 +1,7 @@
+name = 'Scape and Run: Parasites Medical Addon'
+filename = 'SRP_medical_addon_1.12.2-1.0.3.jar'
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/5897/223/SRP_medical_addon_1.12.2-1.0.3.jar"
+hash = '9085798777e769bf1c966d76222e761a5df5181b'
+hash-format = 'sha1'

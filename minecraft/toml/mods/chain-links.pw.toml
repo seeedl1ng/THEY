@@ -1,0 +1,14 @@
+filename = 'Chain Links-0.5.jar'
+name = 'Chain Links'
+side = 'both'
+
+[download]
+hash = '91b02045567d7efd59d15488ee5d5adf57c41ec0dab10b2ba8781a6886bc3470d7a879740b9801481dfbc626c55ea6241dabf3dcb409ea66f5c04f813c1a75ec'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kHqcHyca/versions/aloENjMy/Chain Links-0.5.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'kHqcHyca'
+version = 'aloENjMy'

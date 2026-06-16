@@ -1,0 +1,12 @@
+filename = 'astikorcarts-deluxe-1.12.2-0.1.2.8.jar'
+name = 'AstikorCarts Deluxe'
+
+[download]
+hash = '57368801bae159ab7eca0493cea2ebcf4d409bc0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 5796080
+project-id = 1117628

@@ -1,0 +1,14 @@
+filename = 'SauriaLib 3-3.2.1-beta.jar'
+name = 'SauriaLib'
+side = 'both'
+
+[download]
+hash = '21c5312d328cdd7381ef382120c195cfafb0064c944a6e14b03fa0e89bc14b4b807fd03a462fcf51cb30e3013244852c2fe0f1aecf3befa57bcf900213be5781'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ceqjuh2v/versions/PmBiT5TV/SauriaLib 3-3.2.1-beta.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'ceqjuh2v'
+version = 'PmBiT5TV'

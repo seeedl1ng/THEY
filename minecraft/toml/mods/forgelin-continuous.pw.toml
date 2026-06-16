@@ -1,0 +1,13 @@
+filename = 'Forgelin-Continuous-2.4.0.0.jar'
+name = 'Forgelin-Continuous'
+
+[download]
+hash = 'd19a778cab492c1218134b2671acd0fb7e3b6b3b1f4c4d481b872155fb359715e096049458e7da47fa97b818697f17e5ac41faa61cedc72e0de9a557a39c6f0c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1mPcAmuy/versions/jZIkQLdu/Forgelin-Continuous-2.4.0.0.jar'
+
+[update]
+[update.modrinth]
+mod-id = '1mPcAmuy'
+version = 'jZIkQLdu'

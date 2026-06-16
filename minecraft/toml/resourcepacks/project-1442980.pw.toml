@@ -1,0 +1,12 @@
+filename = '1.12В§6ImmersiveВ§8_В§6InterfacesВ§8.zip'
+name = 'project-1442980'
+
+[download]
+hash = '729aededcda3893f47a15fe308cb14155fab470b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 7518551
+project-id = 1442980

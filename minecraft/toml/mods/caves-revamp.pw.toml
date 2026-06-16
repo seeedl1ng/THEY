@@ -1,0 +1,14 @@
+filename = 'cavesrevamp-alpha-0.3.1.1.jar'
+name = 'Caves Revamp: Underground biomes'
+side = 'both'
+
+[download]
+hash = '5da3a523e5f07373ec3e90b52f457623967d80960f303c1db2418687835e3511a91aadfe281a616d7f0b6ceabcbdbe9874fe6265dbbb651a15095428202abaea'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Bz4MLNjB/versions/DPSpXPAB/cavesrevamp-alpha-0.3.1.1.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'Bz4MLNjB'
+version = 'DPSpXPAB'

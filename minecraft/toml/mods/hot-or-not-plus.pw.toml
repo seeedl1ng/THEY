@@ -1,0 +1,13 @@
+filename = 'HotOrNotPlus-1.12.2-1.1.10.jar'
+name = 'Hot or Not Plus'
+side = 'both'
+
+[download]
+hash = 'b336f157b47ed1928bb35f2d85e19b541d555407'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 5956010
+project-id = 491281

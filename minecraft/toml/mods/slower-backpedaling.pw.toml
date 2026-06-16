@@ -1,0 +1,13 @@
+filename = 'slowerbackpedaling-1.0a.jar'
+name = 'Slower Backpedaling'
+side = 'both'
+
+[download]
+hash = 'daf11714ccc715f0cfdfaed1a49472fd54a85d91'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 3124096
+project-id = 422838

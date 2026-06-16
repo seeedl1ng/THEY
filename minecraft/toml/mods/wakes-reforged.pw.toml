@@ -1,0 +1,13 @@
+filename = 'wakes-1.12.2-Forge-1.2.0.jar'
+name = 'Wakes'
+
+[download]
+hash = '7502bae59aad001a6c17d90b0b2128ac85963ecee02d21f4605abc25980932cb2522db3f67fd4b6d792a62497ed8a8b982acb4f9a70546f86992efcd247137a1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/E0SdeAoH/versions/1IXvZ7Gc/wakes-1.12.2-Forge-1.2.0.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'E0SdeAoH'
+version = '1IXvZ7Gc'

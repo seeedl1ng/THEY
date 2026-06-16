@@ -4,7 +4,7 @@
 	icon: {
 		id: "ftbquests:custom_icon",
 		tag: {
-			icon: "ftb-quests:start.png"
+			icon: "they:textures/start.png"
 		}
 	},
 	x: -2.0d,
