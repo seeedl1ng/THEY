@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/passable-leaves.pw.toml"
-hash = "2465b21121eaf0fe356d509e3eaf27ab6654103cf30438ef748ca5b41c6a0163"
+hash = "0a963eb0f27f43b4e3d6987597788579317b82b42e343ba2213979c9fc7600d1"
 metafile = true
 
 [[files]]
