@@ -7,9 +7,7 @@
   
 *Questions, suggestions, and bug reports https://github.com/seeedl1ng/SRP5361/issues*
 
-A Minecraft 1.12.2 modpack focused on survival and realism, built around mod Scape and Run: Parasites.
-
-**Need help? Check the [Wiki](https://github.com/seeedl1ng/THEY/wiki/FAQ-EN)!**
+This branch is intended for the dedicated server side of the modpack.
 
 ## Installation
 1) Install Java 25 or newer (Java 26 JRE is recommended for the best performance) [Download Java Adoptium](https://adoptium.net/temurin/releases/?os=any&arch=any&package=jre&version=26&mode=filter)
@@ -36,22 +34,38 @@ Development of the modpack started around March 2023
   
 *Вопросы, предложения и сообщения об ошибках: https://github.com/seeedl1ng/SRP5361/issues*
 
-Сборка для Minecraft 1.12.2, с упором на реалистичность и выживание.
-В основе лежит мод Scape and Run: Parasites
+Эта ветка для серверной части модпака (dedicated server)
 
-**Возникли вопросы? У нас есть [Вики](https://github.com/seeedl1ng/THEY/wiki/FAQ-RU)!**
+# Установка на сервер
 
-## Установка
-1) Необходима Java 25, но для большей производительности используйте Java 26 JRE,  ([Скачать Java Adoptium](https://adoptium.net/temurin/releases/?os=any&arch=any&package=jre&version=26&mode=filter))
-2) Скачать сборку из [Releases](https://github.com/seeedl1ng/THEY/releases)
+### Если у вас есть 2-й комп
+1) Скачать сборку с суффиксом "serv" из [релизов](https://github.com/seeedl1ng/THEY/releases) или сверху <> Code → Download ZIP
+2) Скачать [Cleanroom](https://github.com/CleanroomMC/Cleanroom/releases) (который installer.jar)
+3) Запустить Cleanroom...installer.jar > Install server > Выбрать папку с сервером > OK (**! Для установки нужен zapret + [домены](https://github.com/seeedl1ng/THEY/wiki/%C2%A0Zapret) или VPN**)
+4) Скачать Radmin VPN https://www.radmin-vpn.com/ru > Создайте сеть > Пригласите друзей
+5) Создать start.bat и прописать в нём параметры запуска:
 
->MMC - для лаунчеров наподобие Prism
->
->serv - версия для сервера
+**Пример:**
+```
+"C:\Program Files\Eclipse Adoptium\jre-26.0.0.35-hotspot\bin\java" -Xmx5G -Xms5G -jar cleanroom-0.5.8-alpha.jar nogui 
+pause
+```
+Первые кавычки - путь до java.exe
 
-3) Перетащите скачанный .zip в окно лаунчера, нажать "Готово"
-4) ПКМ по сборке → Изменить... → Параметры → Java → Установка Java → Найти → 26 → Ок
-5) Играть
+-Xmx - максимальное значение ОЗУ
+
+-Xms - сколько ты выделяешь ОЗУ
+
+> /\ Оба этих значения ставьте одинаковыми
+
+"название_ядра".jar - имя файла сервера.jar
+
+nogui - отключает графический интерфейс консоли (если ядро поддерживает GUI)
+
+pause - останавливает тики, если на сервере нет игроков
+
+6) Запустить start.bat (чтобы выключить сервер пропиши stop в консоли)
+
 
 <hr>
 
