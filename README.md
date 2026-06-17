@@ -94,9 +94,8 @@ pause
 Разработка сборки ведётся с марта 2023 года.
 
 </details>
+
 <img width="1920" height="1057" alt="2026-06-01_21 36 09" src="https://github.com/user-attachments/assets/16deb5fa-0766-4536-b68e-5548342fc5fa" />
-<img width="1920" height="1057" alt="2025-01-26_22 13 11" src="https://github.com/user-attachments/assets/33b0eaff-fa93-4810-9925-0d4e31c8570a" />
-<img width="1920" height="1080" alt="2025-12-07_15 56 53" src="https://github.com/user-attachments/assets/21292af2-6b40-4a53-b781-6e4d1cc79dbf" />
 <img width="1920" height="1057" alt="2025-03-26_21 53 42downscale" src="https://github.com/user-attachments/assets/9bcdfdfa-820f-4b80-9b08-a00ea2fcbfb3" />
 
 >*They were already here. And they had built nests... ~nocubeyt*
