@@ -1,4 +1,4 @@
-# *Scape and Run: Parasites* – The Horrors Evolving Yet
+# *Scape and Run: Parasites* – The Horrors Evolving Yet | *(SERVER Side)*
 
 [![Downloads](https://img.shields.io/github/downloads/seeedl1ng/THEY/total?logo=github&label=Downloads)](https://github.com/seeedl1ng/THEY/releases)
 
