@@ -39,17 +39,21 @@ Development of the modpack started around March 2023
 # Установка на сервер
 
 ### Если у вас есть 2-й комп
-1) Скачать сборку с суффиксом "serv" из [релизов](https://github.com/seeedl1ng/THEY/releases) или сверху <> Code → Download ZIP
-2) Скачать [Cleanroom](https://github.com/CleanroomMC/Cleanroom/releases) (который installer.jar)
-3) Запустить Cleanroom...installer.jar > Install server > Выбрать папку с сервером > OK (**! Для установки нужен zapret + [домены](https://github.com/seeedl1ng/THEY/wiki/%C2%A0Zapret) или VPN**)
-4) Скачать Radmin VPN https://www.radmin-vpn.com/ru > Создайте сеть > Пригласите друзей
-5) Создать start.bat и прописать в нём параметры запуска:
+1) Скачать сборку с суффиксом "serv" из [Релизов](https://github.com/seeedl1ng/THEY/releases) или сверху <> Code → Download ZIP
+2) Распаковать сборку и запустить ?ИНСТАЛЛЕР?
+3) Скачать [Cleanroom](https://github.com/CleanroomMC/Cleanroom/releases) (который installer.jar)
+4) Запустить Cleanroom...installer.jar > Install server > Выбрать папку с сервером > OK (**! Для установки нужен zapret + [домены](https://github.com/seeedl1ng/THEY/wiki/%C2%A0Zapret) или VPN**)
+5) Скачать Radmin VPN https://www.radmin-vpn.com/ru > Создайте сеть > Пригласите друзей
+6) Создать start.bat и прописать в нём параметры запуска:
 
 **Пример:**
 ```
-"C:\Program Files\Eclipse Adoptium\jre-26.0.0.35-hotspot\bin\java" -Xmx5G -Xms5G -jar cleanroom-0.5.8-alpha.jar nogui 
+chcp 65001
+"C:\Program Files\Eclipse Adoptium\jre-26.0.1.8-hotspot\bin\java" -XX:+UseZGC --enable-native-access=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED -Dfile.encoding=UTF-8 -Dconsole.encoding=UTF-8 -Dlog4j.configurationFile=config/log4j2.xml -Xmx5G -Xms5G -jar cleanroom-0.5.14-alpha.jar nogui 
 pause
 ```
+## Что нужно поменять:
+
 Первые кавычки - путь до java.exe
 
 -Xmx - максимальное значение ОЗУ
@@ -60,9 +64,25 @@ pause
 
 "название_ядра".jar - имя файла сервера.jar
 
-nogui - отключает графический интерфейс консоли (если ядро поддерживает GUI)
+<hr>
 
-pause - останавливает тики, если на сервере нет игроков
+<details>
+ <summary> О других аргументах:</summary>
+  <sub>
+
+* -XX:+UseZGC - сборщик мусора ZGC, эффективен при выделенных 4+ ГБ ОЗУ
+
+* nogui - отключает графический интерфейс консоли (если ядро поддерживает GUI)
+
+* pause - останавливает тики, если на сервере нет игроков
+
+* chcp 65001, -Dfile.encoding=UTF-8, -Dconsole.encoding=UTF-8 - Нормальное отображение кирилицы
+
+* -Dlog4j.configurationFile=config/log4j2.xml - Окрашивать строки типа ERROR, WARN из config/log4j2.xm
+
+* --enable-native-access=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED - Аргументы для Java 25-26
+  </sub>
+</details>
 
 6) Запустить start.bat (чтобы выключить сервер пропиши stop в консоли)
 
