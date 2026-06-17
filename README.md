@@ -25,6 +25,10 @@ A Minecraft 1.12.2 modpack focused on survival and realism, built around mod Sca
 
 <hr>
 
+Dedicated server version: [THEY (serv branch)](https://github.com/seeedl1ng/THEY/tree/serv)
+
+<hr>
+
 **Playing with friends is highly recommended**😋
 
 Development of the modpack started around March 2023
@@ -52,6 +56,10 @@ Development of the modpack started around March 2023
 3) Перетащите скачанный .zip в окно лаунчера, нажать "Готово"
 4) ПКМ по сборке → Изменить... → Параметры → Java → Установка Java → Найти → 26 → Ок
 5) Играть
+
+<hr>
+
+Сборка для сервера: [THEY (serv branch)](https://github.com/seeedl1ng/THEY/tree/serv)
 
 <hr>
 
