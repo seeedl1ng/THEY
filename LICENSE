@@ -1,21 +1,38 @@
-MIT License
+THEY License v1.0
 
-Copyright (c) 2025-2026 seeedl1ng
+Copyright (c) 2025-2026 seedl1ng
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### You may
+✅ View, clone, and fork this repository on GitHub
+✅ Modify the contents of this repository for personal use
+✅ Submit pull requests and contribute to the original project
+✅ Use this project as a reference for learning and creating your own work, provided it is not a copy or recreation of this project
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+### You may not
+❌ Publish or redistribute this repository or any modified version of it outside GitHub without explicit permission
+❌ Publish this project or any derivative work on Modrinth, CurseForge, GitHub Releases, or any other distribution platform
+❌ Redistribute, reuse, or republish assets from this repository without explicit permission
+❌ Use assets from this repository in another project without explicit permission
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### Definitions
+Assets include, but are not limited to:
+* Textures
+* Models
+* Scripts
+* Configurations
+
+### Contributions
+Contributions submitted through pull requests may be incorporated into the project and distributed under this license.
+
+### License Updates
+The copyright holder reserves the right to modify, replace, or discontinue this license for future versions of the project.
+Any copy of the project remains governed by the license version that was in effect when that copy was obtained, unless otherwise agreed in writing.
+
+### Disclaimer
+Third-party software included with or referenced by this project
+remains the property of its respective authors and is subject to
+its own license terms.
+
+This license applies only to the original contents of this repository.
+
+This project is provided "as is", without warranty of any kind.
