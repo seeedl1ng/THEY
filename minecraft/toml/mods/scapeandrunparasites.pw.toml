@@ -1,13 +1,14 @@
-filename = 'SRParasites-1.10.6.jar'
-name = 'Scape and Run Parasites'
+filename = 'SRParasites-1.10.7.jar'
+name = 'Scape and Run: Parasites'
+side = 'both'
 
 [download]
-hash = '1dba5440d667794f20f3035844f352d69e540c824f0e09ae078fabf90e097ac181a11c543f64b4367157cda05712ea0c7ab13b111e8a16f8f8a91b8b6a2b53a3'
+hash = '5d2e1fec778c52948655ad6da682def58d35f04bed0ea77d6f0bae2d4d5fc97620a7467f0f1a1573e1c1cde4046396243fbc0ca6b560af420db3e1a60ac034e8'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/MJX7HTHx/versions/QI9vxDqv/SRParasites-1.10.6.jar'
+url = 'https://cdn.modrinth.com/data/MJX7HTHx/versions/MCel2qKp/SRParasites-1.10.7.jar'
 
 [update]
 [update.modrinth]
 mod-id = 'MJX7HTHx'
-version = 'QI9vxDqv'
+version = 'MCel2qKp'

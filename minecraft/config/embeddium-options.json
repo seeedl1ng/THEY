@@ -4,7 +4,7 @@
     "leaves_quality": "FANCY",
     "enable_vignette": true,
     "use_quad_normals_for_shading_v2": true,
-    "chunk_fade_in_duration": 0,
+    "chunk_fade_in_duration": 700,
     "legacy_biome_blend_radius": 1
   },
   "advanced": {

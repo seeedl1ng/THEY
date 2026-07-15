@@ -1,5 +1,7 @@
 // ЗАМЕНИ НА PYROTECH если поменяешь мнение !!!
 ore_dict.add('campfire', item('simpledifficulty:campfire'))
+// ----- Biomes O Plenty -----
+
 // Origin Island
 ore_dict.remove('treeSapling', item('biomesoplenty:sapling_1'))
 ore_dict.remove('treeLeaves', item('biomesoplenty:leaves_2', 8))

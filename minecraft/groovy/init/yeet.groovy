@@ -14,9 +14,14 @@ crafting.remove('clmodcev:crafting_chain_link_3')
 
 mods.hei.ingredient.hide(item('nocubessrparmory:thereaper'))
 mods.hei.ingredient.hide(item('nocubessrparmory:thereapertrue'))
+mods.hei.ingredient.hide(item('srparasites:the_sign_charm'))
 
 hide(item('baubles:max_verstappen'))
 hide(item('baubles:creeper_cast'))
+// ----- Biomes O Plenty -----
+crafting.removeByInput(item('biomesoplenty:gem:*'))
+crafting.removeByOutput(item('biomesoplenty:gem:*'))
+furnace.removeByOutput(item('biomesoplenty:gem:*'))
 // Kelp Forest
 hide(item('biomesoplenty:seaweed'))
 // Origin Island

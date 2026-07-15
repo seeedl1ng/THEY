@@ -4,17 +4,17 @@ mouseSensitivity:0.5
 fov:1.0
 gamma:0.0
 saturation:0.0
-renderDistance:8
+renderDistance:10
 guiScale:3
 particles:0
 bobView:true
 anaglyph3d:false
-maxFps:250
+maxFps:220
 fboEnable:true
 difficulty:2
 fancyGraphics:true
 ao:2
-renderClouds:true
+renderClouds:false
 resourcePacks:["MinecraftFont.zip","THEY-RussianTranslation-v0.2x.zip","AntiqueAtlasExtra-v1.2.zip","BNT-THEY[v1.21.4].zip","1.12§6Immersive§8_§6Interfaces§8.zip","RLEnchantedBooks-v3.0.0-THEY-Edition.zip","Emis_Rlcraft.zip","SRPEmissives-26.03-THEY-Edition.zip","Anti_fire_16x_1.11_1.12.2_.zip","No Tree Punching Modernized 1.12.2.zip","Leafy_Creepers_1.12.2_OptiFine_port.zip","1.21 Cave Sounds.zip","TOWW Cave Whispers.zip"]
 incompatibleResourcePacks:["1.21 Cave Sounds.zip","TOWW Cave Whispers.zip"]
 lastServer:localhost:25565
@@ -141,6 +141,16 @@ key_Swap shoulder:24
 key_Toggle perspective:0
 key_key.soundrelay.fix:25:CONTROL
 key_keybind.universaltweaks.clear_toasts:0
+key_key.push_to_talk:0
+key_key.whisper:0
+key_key.mute_microphone:50
+key_key.disable_voice_chat:49
+key_key.hide_icons:35
+key_key.voice_chat:47
+key_key.voice_chat_settings:0
+key_key.voice_chat_group:34
+key_key.voice_chat_toggle_recording:0
+key_key.voice_chat_adjust_volumes:0
 key_key.weaponmaster_ydm.opengui:49
 soundCategory_master:0.8013245
 soundCategory_music:0.5070422
