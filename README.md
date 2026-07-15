@@ -15,9 +15,9 @@ A Minecraft 1.12.2 modpack focused on survival and realism, built around mod Sca
 1) Install Java 25 or newer (Java 26 JRE is recommended for the best performance) [Download Java Adoptium](https://adoptium.net/temurin/releases/?os=any&arch=any&package=jre&version=26&mode=filter)
 2) Download modpack from [Releases](https://github.com/seeedl1ng/THEY/releases).
 
->MMC - for launchers such as Prism
+>default - for launchers such as Prism
 >
->serv - for dedicated server
+>^serv - for dedicated server
 
 3) Drag the downloaded ZIP file into your launcher window, click "Done"
 4) Edit Instance → Settings → Java → Java Installation → Detect Select → Java 26 and confirm.
@@ -49,9 +49,9 @@ Development of the modpack started around March 2023
 1) Необходима Java 25, но для большей производительности используйте Java 26 JRE,  ([Скачать Java Adoptium](https://adoptium.net/temurin/releases/?os=any&arch=any&package=jre&version=26&mode=filter))
 2) Скачать сборку из [Releases](https://github.com/seeedl1ng/THEY/releases)
 
->MMC - для лаунчеров наподобие Prism
+>обычная - для лаунчеров наподобие Prism
 >
->serv - версия для сервера
+>^serv - версия для сервера
 
 3) Перетащите скачанный .zip в окно лаунчера, нажать "Готово"
 4) ПКМ по сборке → Изменить... → Параметры → Java → Установка Java → Найти → 26 → Ок
