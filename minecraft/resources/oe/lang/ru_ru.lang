@@ -1,3 +1,0 @@
-tile.oe.blue_ice.name=Синий лёд
-oe.config.worldGen.blueIceTriesPerChunk=Синий лёд (попыток за чанк)
-oe.config.worldGen.blueIceChancePerChunk=Синий лёд (шанс за попытку)
