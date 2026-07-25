@@ -1,0 +1,12 @@
+filename = 'BiomeTweakerCore-1.12.2-1.0.39.jar'
+name = 'BiomeTweakerCore'
+
+[download]
+hash = '13f6bc3c3ea4c4d8f1e8ac0db97a99bf23bd278b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 2527645
+project-id = 270116

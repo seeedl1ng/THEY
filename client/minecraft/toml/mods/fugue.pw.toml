@@ -1,0 +1,13 @@
+filename = '+Fugue-0.23.7.jar'
+name = 'Fugue'
+
+[download]
+hash = '5881c11e525f8c02a6e1365c8eb1d228c9a45de93de056a3c267f4d8c032b5a6badd6a22ac96c7214153f2406aa282697375e0bf3971bb2fa78d12de7fe8dcb1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vylTACsh/versions/BoeDHUKw/%2BFugue-0.23.7.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'vylTACsh'
+version = 'BoeDHUKw'

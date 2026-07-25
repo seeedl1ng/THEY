@@ -1,0 +1,12 @@
+filename = 'SharpBone-1.12.2-1.0.jar'
+name = 'SharpBone'
+
+[download]
+hash = 'e39ae880c3d8e3fd20531e7891992a50865bfef7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 2485153
+project-id = 277609

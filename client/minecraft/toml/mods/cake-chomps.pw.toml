@@ -1,0 +1,14 @@
+filename = 'cakechomps-1.12.2-1.0.jar'
+name = 'Cake Chomps'
+side = 'both'
+
+[download]
+hash = '3e3b6d56b0465720bcb9e4d492e2af999bede54efeea91b067d3e1866ecbccbb8269d888b76154d31321e0f2cd1dd810e9052ef64a1d1ab57b8fb3b94ac56d98'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/g646EoqQ/versions/GXx4KhFP/cakechomps-1.12.2-1.0.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'g646EoqQ'
+version = 'GXx4KhFP'

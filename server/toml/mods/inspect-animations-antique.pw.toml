@@ -1,0 +1,12 @@
+filename = 'inspect_animations_antique-0.2.1a-forge+1.12.2.jar'
+name = 'Inspect Animations Antique'
+
+[download]
+hash = '71dad67fde90b1d110670ec60cb3124b09496ce5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 8441291
+project-id = 1609476

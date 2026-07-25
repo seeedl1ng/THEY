@@ -1,0 +1,12 @@
+filename = 'swparasites-v4.jar'
+name = 'Scape and Spartan: Parasites'
+
+[download]
+hash = '115e18b4a25f2af7fa3d4c4410f892845ed63916'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 6734796
+project-id = 1017208

@@ -1,0 +1,12 @@
+filename = 'unseens_dungeon_additions-1.7.4.1.jar'
+name = "Unseen's Dungeon Additions"
+
+[download]
+hash = 'e09bdc7939db9714f09875d16d8c8f89e90bce67'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 8350851
+project-id = 1087823

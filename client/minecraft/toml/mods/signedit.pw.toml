@@ -1,0 +1,13 @@
+filename = 'signedit-1.12.2-5.jar'
+name = 'SignEdit'
+side = 'both'
+
+[download]
+hash = '0c727ce41ee0c27cd99b34d19d9814e148db4a54'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 2515029
+project-id = 278701

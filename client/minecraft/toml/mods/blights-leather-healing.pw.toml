@@ -1,0 +1,8 @@
+name = "Blights Leather Healing"
+filename = "Blights-Leather-Healing-v1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/3850/256/Blights-Leather-Healing-v1.jar"
+hash-format = "sha1"
+hash = "42f9994c1ab691874f2b3a7ec9d9658dae1b9e3f"

@@ -1,0 +1,12 @@
+filename = 'GoodSkeletonsDontStrafe-v1.1.1-1.12.2.jar'
+name = 'Skeleton AI Fix'
+
+[download]
+hash = '3bbaa64b4d0ef985898fdf960f587422ec1864bf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 2768178
+project-id = 319351

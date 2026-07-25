@@ -1,0 +1,12 @@
+filename = 'BaubleOfUndying-1.12-1.0.1.jar'
+name = 'Bauble of Undying'
+
+[download]
+hash = '5b46285e154e8d9eca24236596c08b72a8518e41'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 2535571
+project-id = 289179

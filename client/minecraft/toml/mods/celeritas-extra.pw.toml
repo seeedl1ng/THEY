@@ -1,0 +1,13 @@
+filename = 'celeritasextra-0.6.3.jar'
+name = 'Celeritas Extra'
+
+[download]
+hash = 'eaeed6636ab69729595e92e5d9ec42a8309e617db5be4449defe1d9ea9efe656a9bd9c113c30f1063b952afc581e7dc5c8aacd17bb76966c4830489ee895315c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LXQekDcE/versions/dhCK19Uk/celeritasextra-0.6.3.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'LXQekDcE'
+version = 'dhCK19Uk'

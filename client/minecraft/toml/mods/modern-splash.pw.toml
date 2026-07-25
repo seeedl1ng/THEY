@@ -1,0 +1,12 @@
+filename = 'ModernSplash-1.12.2-1.5.3.jar'
+name = 'ModernSplash'
+
+[download]
+hash = 'ffd4c237d26587c5c40fd6550c6b9324d185c37a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 8487408
+project-id = 629058

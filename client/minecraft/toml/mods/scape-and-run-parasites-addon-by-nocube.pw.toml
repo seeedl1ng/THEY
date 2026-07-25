@@ -1,0 +1,8 @@
+name = 'Scape and Run: Parasites Combat Addon (by NoCube)'
+filename = 'NoCubes_SRP_Combat_Addon_3.0.0.jar'
+side = 'both'
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/4051/307/NoCubes_SRP_Combat_Addon_3.0.0.jar"
+hash = '4c9b8dcca199889719aa9d98705942768783f0af'
+hash-format = 'sha1'

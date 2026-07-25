@@ -1,0 +1,12 @@
+filename = 'simplenightmares-1.1.13.jar'
+name = 'SimpleNightmares'
+
+[download]
+hash = 'f498f04d42a8865260e3123437f7466cec7ca718'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 5809634
+project-id = 1063217

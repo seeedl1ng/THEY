@@ -1,0 +1,13 @@
+filename = 'ash_abomination-1.0.jar'
+name = "Abu's Ash Abomination"
+side = 'both'
+
+[download]
+hash = '01cd08795ec3b1aa6d8f8a9a4df8b9f50d9bb512'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 4520240
+project-id = 857670

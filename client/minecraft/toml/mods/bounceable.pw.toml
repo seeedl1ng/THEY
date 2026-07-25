@@ -1,0 +1,12 @@
+filename = 'Bounceable-1.0.1.jar'
+name = 'Bounceable'
+
+[download]
+hash = '953978600c3be4b3a8a53edfc6462f0c5ac57c99'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 6050618
+project-id = 1165515

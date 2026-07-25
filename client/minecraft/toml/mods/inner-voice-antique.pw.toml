@@ -1,0 +1,12 @@
+filename = 'InnerVoiceAntique-1.12.2-1.0.0.jar'
+name = 'Inner Voice Antique'
+
+[download]
+hash = '64fd213126e56438a416b6820866a7d6a63e36a1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 8428172
+project-id = 1609541

@@ -1,0 +1,14 @@
+filename = 'SRPExtra-1.10.8.jar'
+name = 'Scape and Run: Parasites Extra'
+side = 'both'
+
+[download]
+hash = '6894396074c968919fc1a15caf3f728b5389a8a033fa798ee0a4341e505e1026f694c3cd8c521db0ca0155817fa67309ce42d824d447f243ce78fed40035f323'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8uMBjrsG/versions/QWoCMdiX/SRPExtra-1.10.8.jar'
+
+[update]
+[update.modrinth]
+mod-id = '8uMBjrsG'
+version = 'QWoCMdiX'

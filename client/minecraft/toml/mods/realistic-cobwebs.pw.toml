@@ -1,0 +1,14 @@
+filename = 'realistic-cobwebs-1.12.2-1.0.4.jar'
+name = 'Realistic Cobwebs'
+side = 'server'
+
+[download]
+hash = '381b4a33a8cc9e6790c64a37f1bc6310813aec71ea679d93a3dd8e0aa160670da3fb64ab62c49cda28fd0043ad29f756fac0ff7e8168fe520dd573cfe1052e5b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KbSE3UgH/versions/erMfw5XA/realistic-cobwebs-1.12.2-1.0.4.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'KbSE3UgH'
+version = 'erMfw5XA'

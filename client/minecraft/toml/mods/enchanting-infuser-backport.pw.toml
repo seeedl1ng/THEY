@@ -1,0 +1,12 @@
+filename = 'EnchantingInfuserBackport-1.0.3.jar'
+name = 'Enchanting Infuser Backport'
+
+[download]
+hash = 'da8f1c39b77cb12d539b988758a16cd294c9e9d7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 8133293
+project-id = 1506921

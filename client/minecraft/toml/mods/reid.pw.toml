@@ -1,0 +1,13 @@
+filename = 'RoughlyEnoughIDs-2.3.1.jar'
+name = 'RoughlyEnoughIDs'
+
+[download]
+hash = '80adfa5130cc9b3eb7333eda77cf6a738ddaca86c120082d1325436b29c01eb5189f5fb2055586bd95683325beb55d634a300ed286d2c320d7d7d066a3e21ffb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sDhbZgv7/versions/LTcBizqM/RoughlyEnoughIDs-2.3.1.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'sDhbZgv7'
+version = 'LTcBizqM'

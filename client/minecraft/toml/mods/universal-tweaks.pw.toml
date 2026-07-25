@@ -1,0 +1,13 @@
+filename = 'UniversalTweaks-1.12.2-1.20.1.jar'
+name = 'Universal Tweaks'
+
+[download]
+hash = '1aae412c61f86b354bfd6fe442f1b5de800740008d08345cbbb3430ec0e3881702afca572c5006df69b518df936a86be3fc3ca677b1443a3471d461e1446f940'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/s32LssQX/versions/AQqRQW6a/UniversalTweaks-1.12.2-1.20.1.jar'
+
+[update]
+[update.modrinth]
+mod-id = 's32LssQX'
+version = 'AQqRQW6a'

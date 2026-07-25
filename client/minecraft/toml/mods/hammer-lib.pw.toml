@@ -1,0 +1,13 @@
+filename = 'HammerLib-1.12.2-12.2.66.jar'
+name = 'HammerLib'
+
+[download]
+hash = 'd65931ba7ea0afe3c88c8ee746ae285b08a7387868d8ee1f9d9e8fd96a8594cc447e3b40f299728f971231cd795a2598b99d1503ebba855697c603fb328076c4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PlkSuVtM/versions/B9uVCQjP/HammerLib-1.12.2-12.2.66.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'PlkSuVtM'
+version = 'B9uVCQjP'

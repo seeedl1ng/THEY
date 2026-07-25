@@ -1,0 +1,13 @@
+filename = 'waterminecart-1.12.2-1.1.0.jar'
+name = 'Water Minecart'
+
+[download]
+hash = '33ef94da4eefccce18b40ccae5c228911499b41694663215ec22533df082dcf9b410242e0f4e9c1bd0d5fdc6a70e8a6b7d9032957282ae9b37b2cca11fe2f6b4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ryKm2n0g/versions/ysfXV7Wy/waterminecart-1.12.2-1.1.0.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'ryKm2n0g'
+version = 'ysfXV7Wy'

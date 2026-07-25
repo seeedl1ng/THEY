@@ -1,0 +1,41 @@
+THEY License v1.1
+
+Copyright (c) 2025-2026 seeedl1ng
+
+### You may
+✅ View, clone, and fork this repository on GitHub or GitVerse
+✅ Modify the contents of this repository for personal use
+✅ Submit pull requests and contribute to the original project
+✅ Use this project as a reference for learning and creating your own work, provided it is not a copy or recreation of this project
+
+### You may not
+❌ Redistribute this repository or any modified version of it, except as a GitHub or GitVerse fork, without explicit permission
+❌ Publish this project, any fork of it, or any modified version of it on Modrinth, CurseForge, GitHub Releases, or any other distribution platform
+❌ Redistribute, reuse, or republish assets from this repository without explicit permission
+❌ Use assets from this repository in another project without explicit permission
+
+### Definitions
+Assets include, but are not limited to:
+* Textures
+* Models
+* Scripts
+
+### Contributions
+Contributions submitted through pull requests may be incorporated into the project and distributed under this license.
+
+### License Updates
+The copyright holder reserves the right to modify, replace, or discontinue this license for future versions of the project.
+Any copy of the project remains governed by the license version that was in effect when that copy was obtained, unless otherwise agreed in writing.
+
+### Disclaimer
+Third-party software included with this repository remains copyrighted
+by its respective authors and is distributed under its own license.
+
+This repository currently includes Cleanroom MMC, which is licensed
+under the GNU Lesser General Public License v2.1 (LGPL-2.1).
+
+This license applies only to the original content created for this
+project and does not modify or replace the license terms of any
+third-party components.
+
+This project is provided "as is", without warranty of any kind.

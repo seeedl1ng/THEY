@@ -1,0 +1,12 @@
+filename = 'DramaticTreesBOP-1.12.2-1.5.3.jar'
+name = "Dramatic Trees - Biomes O' Plenty"
+
+[download]
+hash = '99f5add8a5018d26b0112e8904c437356914fb77'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 8127970
+project-id = 1547614

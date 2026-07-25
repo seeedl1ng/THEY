@@ -1,0 +1,14 @@
+filename = 'lemonskin-4.0.0.jar'
+name = 'LemonSkin'
+side = 'both'
+
+[download]
+hash = 'ef3a593a8c350e457bafbb9da5d3dd801266abc0ca79d1cefb79f941cea9206e4ccc6348fc8b25b7006309133e95a7fb0edf651de96ffbc2ca11bcc4f6592bb4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NsYiWbof/versions/AYvyWkPz/lemonskin-4.0.0.jar'
+
+[update]
+[update.modrinth]
+mod-id = 'NsYiWbof'
+version = 'AYvyWkPz'

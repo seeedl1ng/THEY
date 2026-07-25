@@ -1,0 +1,42 @@
+[client_only]
+mods = [
+	"advancement-plaques",
+	"ambientsounds",
+	"armored-arms",
+	"blur",
+	"cameraoverhaul-vintage",
+	"celeritas-auto-build",
+	"celeritas-dynamic-lights",
+	"celeritas-extra",
+	"celeritas-leaf-culling",
+	"default-options",
+	"default-world-generator-ssp",
+	"enchantment-descriptions",
+	"fancymenu",
+	"fps-reducer",
+	"legendary-tooltips",
+	"let-sleeping-dogs-lie",
+	"loading-progress-bar",
+	"load-my-resources",
+	"mo-bends",
+	"modern-splash",
+	"mouse-tweaks-unofficial",
+	"neverenoughanimation",
+	"particle-culling",
+	"pick-up-notifier",
+	"proportional-destruction-particles",
+	"renderlib",
+	"rlfoliage",
+	"shoulder-surfing-reloaded",
+	"sound-physics-remixin",
+	"soundrelay",
+	"torohealth-damage-indicators",
+	"wakes-reforged",
+	"zume"
+]
+
+[crash_on_server]
+mods = [
+	"ow-i-got-arrowed",
+	"waterskin-simple-difficulty"
+]
