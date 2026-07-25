@@ -75,31 +75,3 @@ Development of the modpack started around March 2023
 <img width="1920" height="1057" alt="2025-03-26_21 53 42downscale" src="https://github.com/user-attachments/assets/9bcdfdfa-820f-4b80-9b08-a00ea2fcbfb3" />
 
 >*They were already here. And they had built nests... ~nocubeyt*
-
-## License
-
-This project is licensed under the THEY License v1.0.
-
-See the [LICENSE](LICENSE) file for the full terms.
-
-<details>
-<summary>📜 Terms of Use</summary>
-
-### You may
-
-✅ View, clone, and fork this repository on GitHub
-
-✅ Modify the contents for personal use
-
-✅ Submit pull requests to the original project
-
-### You may not
-
-❌ Publish this project or derivative works on Modrinth, CurseForge, GitHub Releases, or other distribution platforms
-
-❌ Redistribute assets from this repository without permission
-
-❌ Use repository assets in other projects without permission
-
-This project is provided "as is", without warranty of any kind.
-</details>
