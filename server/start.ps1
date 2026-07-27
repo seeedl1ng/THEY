@@ -11,6 +11,7 @@ $Java = "C:\Program Files\Eclipse Adoptium\jre-26.0.1.8-hotspot\bin\java.exe"
 	'-Dlog4j.configurationFile=config/log4j2.xml' `
 	'-Xmx8G' `
 	'-Xms8G' `
-	'-jar' 'cleanroom-0.5.17-alpha.jar' `
+	'-jar' `
+	'cleanroom-0.5.17-alpha.jar' `
 	'nogui'
 Pause
