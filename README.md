@@ -23,11 +23,11 @@ A Minecraft 1.12.2 modpack focused on survival and realism, built around mod Sca
 4) Edit Instance → Settings → Java → Java Installation → Detect Select → Java 26 and confirm
 5) Play
 
-<hr>
+---
 
 Dedicated server version: [THEY (Dedicated SERVER)](https://github.com/seeedl1ng/THEY/tree/main/server#readme)
 
-<hr>
+---
 
 **Playing with friends is highly recommended**😋
 
@@ -57,11 +57,11 @@ Development of the modpack started around March 2023
 4) ПКМ по сборке → Изменить... → Параметры → Java → Установка Java → Найти → 26 → Ок
 5) Играть
 
-<hr>
+---
 
 Сборка для сервера: [THEY (Dedicated SERVER)](https://github.com/seeedl1ng/THEY/tree/main/server#readme)
 
-<hr>
+---
 
 **Чем больше, тем лучше! Позови своего друга, и ты получишь больше удовольствия от сборки😋**
 
