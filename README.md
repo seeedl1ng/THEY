@@ -5,7 +5,7 @@
 <details>
   <summary>🇺🇸 EN</summary>
   
-*Questions, suggestions, and bug reports https://github.com/seeedl1ng/SRP5361/issues*
+*Questions, feature requests, and bug reports: https://github.com/seeedl1ng/SRP5361/issues*
 
 A Minecraft 1.12.2 modpack focused on survival and realism, built around mod Scape and Run: Parasites.
 
@@ -25,7 +25,7 @@ A Minecraft 1.12.2 modpack focused on survival and realism, built around mod Sca
 
 <hr>
 
-Dedicated server version: [THEY (serv branch)](https://github.com/seeedl1ng/THEY/tree/serv)
+Dedicated server version: [THEY (Dedicated SERVER)](https://github.com/seeedl1ng/THEY/tree/main/server#readme)
 
 <hr>
 
@@ -59,7 +59,7 @@ Development of the modpack started around March 2023
 
 <hr>
 
-Сборка для сервера: [THEY (serv branch)](https://github.com/seeedl1ng/THEY/tree/serv)
+Сборка для сервера: [THEY (Dedicated SERVER)](https://github.com/seeedl1ng/THEY/tree/main/server#readme)
 
 <hr>
 
