@@ -7,20 +7,20 @@
   
 *Questions, feature requests, and bug reports: https://github.com/seeedl1ng/SRP5361/issues*
 
-A Minecraft 1.12.2 modpack focused on survival and realism, built around mod Scape and Run: Parasites.
+A Minecraft 1.12.2 modpack focused on survival and realism, built around mod Scape and Run: Parasites
 
 **Need help? Check the [Wiki](https://github.com/seeedl1ng/THEY/wiki/FAQ-EN)!**
 
 ## Installation
 1) Install Java 25 or newer (Java 26 JRE is recommended for the best performance) [Download Java Adoptium](https://adoptium.net/temurin/releases/?os=any&arch=any&package=jre&version=26&mode=filter)
-2) Download modpack from [Releases](https://github.com/seeedl1ng/THEY/releases).
+2) Download modpack from [Releases](https://github.com/seeedl1ng/THEY/releases)
 
 >default - for launchers such as Prism
 >
 >^serv - for dedicated server
 
 3) Drag the downloaded ZIP file into your launcher window, click "Done"
-4) Edit Instance → Settings → Java → Java Installation → Detect Select → Java 26 and confirm.
+4) Edit Instance → Settings → Java → Java Installation → Detect Select → Java 26 and confirm
 5) Play
 
 <hr>
@@ -40,7 +40,7 @@ Development of the modpack started around March 2023
   
 *Вопросы, предложения и сообщения об ошибках: https://github.com/seeedl1ng/SRP5361/issues*
 
-Сборка для Minecraft 1.12.2, с упором на реалистичность и выживание.
+Сборка для Minecraft 1.12.2, с упором на реалистичность и выживание
 В основе лежит мод Scape and Run: Parasites
 
 **Возникли вопросы? У нас есть [Вики](https://github.com/seeedl1ng/THEY/wiki/FAQ-RU)!**
@@ -65,7 +65,7 @@ Development of the modpack started around March 2023
 
 **Чем больше, тем лучше! Позови своего друга, и ты получишь больше удовольствия от сборки😋**
 
-Разработка сборки ведётся с марта 2023 года.
+Разработка сборки ведётся с марта 2023 года
 
 </details>
 
