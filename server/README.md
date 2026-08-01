@@ -4,8 +4,6 @@
 
 <details>
   <summary>🇺🇸 EN</summary>
-  
-*Questions, feature requests, and bug reports: https://github.com/seeedl1ng/SRP5361/issues*
 
 This page is for the dedicated server version of the modpack.
 
@@ -85,8 +83,6 @@ This page is for the dedicated server version of the modpack.
 
 <details>
   <summary>🇷🇺 RU</summary>
-  
-*Вопросы, предложения и сообщения об ошибках: https://github.com/seeedl1ng/THEY/issues*
 
 Эта страница предназначена для серверной версии модпака (dedicated server)
 
