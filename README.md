@@ -42,7 +42,7 @@ Dedicated server version: [THEY (Dedicated SERVER)](https://github.com/seeedl1ng
 
 **MEMORY:** 2 GB RAM              4.5 GB RAM
 
-**GRAPHICS:** support GL3.0      support GL4.5
+**GRAPHICS:** support GL3.3      support GL4.5
 
  
 
@@ -94,7 +94,7 @@ Development of the modpack started around March 2023
 
 **ОПЕРАТИВНАЯ ПАМЯТЬ:** 2 GB ОЗУ      4.5 GB ОЗУ
 
-**ВИДЕОКАРТА:** support GL3.0                 support GL4.5
+**ВИДЕОКАРТА:** support GL3.3                 support GL4.5
 
  
 
