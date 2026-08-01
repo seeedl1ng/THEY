@@ -14,11 +14,12 @@ This page is for the dedicated server version of the modpack.
 ```
 
 ```
-2. For the release version, extract the archive and run the ?INSTALLER?
-3. Download [Cleanroom](https://github.com/CleanroomMC/Cleanroom/releases) (which `installer.jar`)
-4. Run **Cleanroom Installer** → **Install Server** → select your server folder → **OK**
-5. Download **Radmin VPN**: https://www.radmin-vpn.com → Create Network → Invite your friends
-6. Replace four values in `start.ps1`:
+  1.1. *For the **Release** version, extract the archive and run the ?INSTALLER?*
+
+2. Download [Cleanroom](https://github.com/CleanroomMC/Cleanroom/releases) (which `installer.jar`)
+3. Run **Cleanroom Installer** → **Install Server** → select your server folder → **OK**
+4. Download **Radmin VPN**: https://www.radmin-vpn.com → Create Network → Invite your friends
+5. Replace four values in `start.ps1`:
 
  * `$Java = "..."` — path to your `java.exe`
 
@@ -73,7 +74,7 @@ This page is for the dedicated server version of the modpack.
 
 ---
 
-7. Run `start.ps1`
+6. Run `start.ps1`
 
 > To stop the server, type `stop` in the server console
 
@@ -84,7 +85,7 @@ This page is for the dedicated server version of the modpack.
 <details>
   <summary>🇷🇺 RU</summary>
 
-Эта страница предназначена для серверной версии модпака (dedicated server)
+Эта страница предназначена для серверной версии модпака
 
 # Установка на сервер
 
@@ -94,11 +95,12 @@ This page is for the dedicated server version of the modpack.
 ```
 
 ```
-2. Для Релиз версии распаковать сборку и запустить ?ИНСТАЛЛЕР?
-3. Скачать [Cleanroom](https://github.com/CleanroomMC/Cleanroom/releases) (который `installer.jar`)
-4. Запустить **Cleanroom Installer** → **Install Server** → выбрать папку сервера → **OK** (**! Для установки нужен zapret + [домены](https://github.com/seeedl1ng/THEY/wiki/%C2%A0Zapret) или VPN**)
-5. Скачать **Radmin VPN**: https://www.radmin-vpn.com/ru > Создайте сеть > Пригласите друзей
-6. Заменить 4 параметра в `start.ps1`:
+  1.1. *Для **Релиз** версии распаковать сборку и запустить ?ИНСТАЛЛЕР?*
+
+2. Скачать [Cleanroom](https://github.com/CleanroomMC/Cleanroom/releases) (который `installer.jar`)
+3. Запустить **Cleanroom Installer** → **Install Server** → выбрать папку сервера → **OK** (**! Для установки нужен zapret + [домены](https://github.com/seeedl1ng/THEY/wiki/%C2%A0Zapret) или VPN**)
+4. Скачать **Radmin VPN**: https://www.radmin-vpn.com/ru > Создайте сеть > Пригласите друзей
+5. Заменить 4 параметра в `start.ps1`:
 
 * `$Java = "..."` - путь до вашей `java.exe`
 
@@ -153,7 +155,7 @@ This page is for the dedicated server version of the modpack.
 
 ---
 
-7. Запустить `start.ps1`
+6. Запустить `start.ps1`
 > Чтобы выключить сервер, введите `stop` в консоли
 
  
